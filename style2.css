@@ -1,49 +1,93 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Quicksand:wght@700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Indie+Flower&family=Quicksand:wght@700&display=swap');
+
 @import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Devanagari+Sanskrit:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hi+Melody&display=swap');
+
 
 html, body {
   margin:0;
   padding:0;
   color: #000;
+  background-color: #fff;
+}
+
+a, a:link, a:visited{
+        text-decoration: none;
+        color: black;
+}
+a:hover {
+    color: #b5191d;
+    text-decoration: underline wavy #b5191d;
+    text-underline-offset: 0.3em;
+}
+.title {
+  background-image: url("./images/title2.png");
+  background-position: center;
+  background-size: contain;
+  background-repeat:no-repeat;
+  color: #000;
+  height:200px;
+  margin:1vmin;
+}
+
+.tray {
+    display:flex;
+    flex-wrap: wrap;
+    background-image: url("./images/tray.png");
+    background-position: center;
+    background-size: contain;
+    background-repeat:no-repeat;
+    justify-content: center;
+    position: relative;
 }
 
 .comic {
   display:flex;
   flex-wrap:wrap;
-  font-family: 'Secular One', sans-serif;
+  font-family: 'Shadows Into Light', sans-serif;
   padding:1vmin;
+  
 }
 
-.title {
-  background-color:#fff;
-  border-bottom:solid 0px #000;
-  font-family: 'Shadows Into Light', cursive;
-  font-size: 4em;
+.menu_box {
+  border: 3rem ridge seagreen;
+  display:block;
+  flex:1 1;
+  margin-top:5vmin;
+  margin-left:15vmin;
+  margin-right:15vmin;
+  margin-bottom:5vmin;
+  overflow:hidden;
+  position:relative;
   text-align: center;
+  font-family: 'Shadows Into Light', sans-serif;
   color: #000;
-  margin:1vmin;
+  background-color: #FFDB58;
+  font-size: 3vh;
 }
 
+
+
+/*
+.m_text {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+*/
 .panel {
-  background-color:#fff;
-  border:solid 2px #000;
+  border:solid 0px #000;
   /*box-shadow:0 6px 6px -6px #000;*/
   display:inline-block;
   flex:1 1;
-  height:300px;
+  height:600px;
   margin:1vmin;
   overflow:hidden;
   position:relative;
-}
 
-.text {
-  background-color:#fff;
-  border:solid 2px #000;
-  margin:0;
-  padding:3px 10px;
 }
 
 .top-left {
@@ -100,14 +144,16 @@ html, body {
 }
 
 .panel:nth-child(1) {
-  flex-basis: 500px;
-  background-image: url("./images/title.png");
+  flex-basis: 800px;
+  background-image: url("./images/tray.png");
   background-position: center;
+  background-size: contain;
+  background-repeat:no-repeat;
+  
 }
 .panel:nth-child(2) {
-  flex-basis: 300px;
-  background-image: url("./images/code_brew.png");
-  background-position: center;
+  flex-basis: 800px;
+
 }
 .panel:nth-child(3) {
   flex-basis: 800px;
