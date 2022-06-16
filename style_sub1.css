@@ -1,0 +1,149 @@
+@font-face {
+    font-family: 'Cafe24SsurroundAir';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2105_2@1.0/Cafe24SsurroundAir.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html {
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+  font-size: 62.5%;
+}
+
+body{
+    margin:0;
+    padding:0;
+    line-height:1.6;
+    font-size:1.6em;
+    font-weight: 300;
+    font-family:'Cafe24SsurroundAir';
+    color: #000;
+    background-color: #fff;
+    letter-spacing: .01em;
+    overflow:auto;
+}
+
+a, a:link, a:visited{	
+		text-decoration: none;
+		color: #3E4C45;
+}
+a:hover {
+    color: #fff;
+}
+
+#a_quote, a_quote:link, a_quote:visited{
+        text-decoration: none;
+        color: seagreen;
+        font-size: 0.8rem;
+        font-style: italic;
+
+}
+#a_quote:hover {
+        color: red;
+        font-size: 0.8rem;
+        font-style: italic;
+}
+
+.container {
+  display : flex;
+  flex-wrap:wrap;
+  width : 100%;
+  margin: 0 auto;
+  max-width: 112.0rem;
+  padding: 4.0rem;
+  padding-left: 0.0rem;
+  padding-top: 2.0rem;
+  justify-content:center;
+  position : relative;
+  overflow: hidden;
+  align-items: center;
+ }
+
+h1 {
+    font-size: 2rem;
+    width:100%;
+    text-align: center;
+}
+h2 {
+    font-size: 2rem;
+    width:100%;
+    text-align: left;
+}
+
+.main-section1 {
+    display: flex;
+    flex-direction: column;
+    width : 100%;
+    background-color: #E99300;
+    color:#3E4C45;
+    
+}
+
+.main-section2 {
+    display: flex;
+    flex-direction: column;
+    width : 100%;
+    background-color: #3E4C45;
+    color: #E99300;
+}
+
+
+.div1 {
+  border : solid 0px;
+  width : 70%;
+  margin: 0;
+  padding-top: 8.0rem;
+  padding-bottom: 10.0rem;
+  
+ }
+
+.div2 {
+    text-align: right;
+    padding: 1.0rem;
+ }
+
+
+.div_left {
+  display:inline-block;
+  width : 40%;
+  padding: 2.0rem;
+ }
+  
+.div_right {
+  display:inline-block;
+  width : 40%;
+  padding: 2.0rem;
+ }
+
+
+li {
+    text-decoration: none;
+}
+
+button {
+  border: 0.1rem solid #fff;
+  border-radius: .6rem;
+  background-color: #3E4C45;
+  color: #fff;
+  display: inline-block;
+  font-size: 1.4rem;
+  height: 2.5rem;
+  letter-spacing: .1rem;
+  line-height: 2rem;
+  padding: 0 2.0rem;
+  margin-left: 1.4rem;
+  text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+footer{
+text-align:center;
+font-size: 1rem;
+background-color: #E99300;
+color: #3E4C45;
+
+}
