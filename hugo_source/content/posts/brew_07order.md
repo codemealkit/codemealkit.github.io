@@ -1,12 +1,10 @@
-+++
-author = "김승범"
-title = "연산의 순서"
-date = "2019-03-05"
-description = "Guide to emoji usage in Hugo"
-tags = [
-    "codebrew"
-]
-+++
+---
+title: "연산의 순서"
+author: "김승범"
+date: "2021-09-03"
+tags:
+- codebrew
+---
 
 Emoji can be enabled in a Hugo project in a number of ways.
 <!--more-->

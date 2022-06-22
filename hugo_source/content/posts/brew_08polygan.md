@@ -1,23 +1,10 @@
 ---
-title: "신선한 뿌리 샐러드"
-description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem"
-date: "2021-09-24"
+title: "다각형과 원"
+author: "김승범"
+date: "2021-09-17"
 tags:
-- program
+- codebrew
 ---
-
-+++
-author = "Hugo Authors"
-title = "신선한 뿌리 샐러드"
-date = "2021-07-23"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-tags = [
-    "markdown",
-    "css",
-    "html",
-    "themes",
-]
-+++
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 <!--more-->

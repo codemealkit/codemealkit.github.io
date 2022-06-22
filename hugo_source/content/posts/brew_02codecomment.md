@@ -1,12 +1,10 @@
-+++
-author = "정앎"
-title = "코드 코멘트"
-date = "2019-03-09"
-description = "Lorem Ipsum Dolor Si Amet"
-tags = [
-    "codebrew"
-]
-+++
+---
+title: "코드 코멘트"
+author: "정앎"
+date: "2021-07-30"
+tags:
+- codebrew
+---
 
 Lorem est tota propiore conpellat pectoribus de pectora summo. <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
 

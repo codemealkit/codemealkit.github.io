@@ -45,9 +45,8 @@ minify = true
   twitter = ""
 
 [permalinks]
-  posts = "program/:filename"
+  posts = "posts/:filename"
   pages = "/:slug"
-  brew = "brew/:filename"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

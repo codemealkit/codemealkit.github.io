@@ -2,8 +2,6 @@
 author: Hugo Authors
 title: 캡슐 머신 96-22 버라이어티팩
 date: 2021-08-13
-description: A brief guide to setup KaTeX
-math: true
 tags:
 - program
 ---
