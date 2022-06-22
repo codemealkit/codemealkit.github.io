@@ -4,8 +4,7 @@ title = "자연의 리듬"
 date = "2019-03-10"
 description = "A brief description of Hugo Shortcodes"
 tags = [
-    "shortcodes",
-    "privacy",
+    "codebrew"
 ]
 +++
 

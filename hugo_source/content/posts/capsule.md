@@ -4,6 +4,8 @@ title: 캡슐 머신 96-22 버라이어티팩
 date: 2021-08-13
 description: A brief guide to setup KaTeX
 math: true
+tags:
+- program
 ---
 
 Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.
@@ -45,5 +47,5 @@ Inline math: \(\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…\)
 
 Block math:
 $$
- \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } 
+ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
 $$

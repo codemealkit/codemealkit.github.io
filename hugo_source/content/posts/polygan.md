@@ -1,13 +1,10 @@
 +++
-author = "전유진"
-title = "게임 코드"
+author = "김승범"
+title = "다각형과 원"
 date = "2019-03-11"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags = [
-    "markdown",
-    "css",
-    "html",
-    "themes",
+    "codebrew"
 ]
 +++
 

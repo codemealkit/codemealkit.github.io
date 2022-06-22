@@ -1,11 +1,10 @@
 +++
-author = "김승범"
-title = "재귀적 Hello, World"
+author = "정앎"
+title = "코드 코멘트"
 date = "2019-03-09"
 description = "Lorem Ipsum Dolor Si Amet"
 tags = [
-    "markdown",
-    "text",
+    "codebrew"
 ]
 +++
 
