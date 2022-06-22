@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+  {{ partial "head.html" . }}
+<body>
+  <main>
+    {{ partial "header.html" . }}
+    <section>
+
+      <ul class="posts">
+      {{ range where .Paginator.Pages.Reverse ".Params.tags" "intersect" (slice "program")}}
+      <li>
+        <a href="{{ .Permalink }}" title="{{ .Title }}" itemprop="name url">{{ .Title }}</a>
+        <hr>
+       <time datetime="{{ dateFormat "01/02" .Date }}">{{ dateFormat "01/02" .Date }}</time>
+      </li>
+      {{ end }}
+    </ul>
+    </section>
+
+    {{ partial "footer.html" . }}
+  </main>
+</body>
+</html>
