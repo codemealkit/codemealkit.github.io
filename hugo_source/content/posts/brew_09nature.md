@@ -1,7 +1,7 @@
 ---
-title: "바빌로니아 법"
-author: "정앎"
-date: "2021-07-23"
+title: "자연의 리듬"
+author: "전유진"
+date: "2021-09-24"
 tags:
 - codebrew
 ---

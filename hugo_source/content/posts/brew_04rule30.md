@@ -1,7 +1,7 @@
 ---
-title: "다각형과 원"
-author: "김승범"
-date: "2021-09-17"
+title: "Rule 30 CA (30번째 룰)"
+author: "정앎"
+date: "2021-08-13"
 tags:
 - codebrew
 ---

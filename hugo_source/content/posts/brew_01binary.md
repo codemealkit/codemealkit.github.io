@@ -1,7 +1,7 @@
 ---
-title: "게임 코드"
+title: "운명의 바이너리"
 author: "전유진"
-date: "2021-08-06"
+date: "2021-07-23"
 tags:
 - codebrew
 ---

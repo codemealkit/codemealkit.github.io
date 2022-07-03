@@ -60,6 +60,9 @@ minify = true
   mediatype = "application/json"
   baseName = "feed"
 
+[blackfriday]
+  extensions = ["hardLineBreak"]
+
 [sitemap]
   changefreq = "monthly"
   filename = "sitemap.xml"

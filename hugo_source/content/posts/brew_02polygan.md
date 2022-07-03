@@ -1,7 +1,7 @@
 ---
-title: "모듈의 미학"
-author: "전유진"
-date: "2021-08-20"
+title: "다각형과 원"
+author: "김승범"
+date: "2021-07-30"
 tags:
 - codebrew
 ---

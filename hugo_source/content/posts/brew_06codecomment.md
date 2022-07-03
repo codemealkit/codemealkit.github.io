@@ -1,7 +1,7 @@
 ---
-title: "재귀적 Hello, World"
-author: "김승범"
-date: "2021-08-13"
+title: "코드 코멘트"
+author: "정앎"
+date: "2021-08-27"
 tags:
 - codebrew
 ---

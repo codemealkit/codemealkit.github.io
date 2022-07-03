@@ -1,7 +1,7 @@
 ---
-title: "Rule 30 CA (30번째 룰)"
-author: "정앎"
-date: "2021-09-24"
+title: "스테가노그래피"
+author: "전유진"
+date: "2021-08-20"
 tags:
 - codebrew
 ---

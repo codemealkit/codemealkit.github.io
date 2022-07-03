@@ -1,7 +1,7 @@
 ---
 title: "연산의 순서"
 author: "김승범"
-date: "2021-09-03"
+date: "2021-09-17"
 tags:
 - codebrew
 ---
