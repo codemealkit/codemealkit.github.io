@@ -1,7 +1,7 @@
 ---
 title: "바빌로니아 법"
 author: "정앎"
-date: "2021-08-06"
+date: "2021-08-27"
 tags:
 - codebrew
 ---
