@@ -552,18 +552,37 @@ $$&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</auth
 &lt;p>The above quote is excerpted from Rob Pike&amp;rsquo;s &lt;a href="https://www.youtube.com/watch?v=PAAkCSZUG1c">talk&lt;/a> during Gopherfest, November 18, 2015.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/section></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_02polygan/</guid><pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate></item><item><title>한입 코드</title><link>https://codemealkit.github.io/posts/program_02bites/</link><description>&lt;p>Hugo ships with several &lt;a href="https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes">Built-in Shortcodes&lt;/a> for rich content, along with a &lt;a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config&lt;/a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p>
+&lt;/section></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_02polygan/</guid><pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate></item><item><title>한입 코드</title><link>https://codemealkit.github.io/posts/program_02bites/</link><description>&lt;h3 id="신청하기">신청하기 &lt;a href="#%ec%8b%a0%ec%b2%ad%ed%95%98%ea%b8%b0" class="hash">#&lt;/a>&lt;/h3>
+&lt;ol>
+&lt;li>신청링크는 각 모임 2주 전부터 열립니다.&lt;/li>
+&lt;li>원활한 워크숍 진행을 위하여 참여 인원을 10명으로 제한합니다.&lt;/li>
+&lt;li>워크숍은 서울시립 남서울미술관 1층 전시실에서 진행됩니다.&lt;/li>
+&lt;/ol>
+&lt;p>&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />
+&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
 &lt;hr>
-&lt;h2 id="instagram-simple-shortcode">Instagram Simple Shortcode &lt;a href="#instagram-simple-shortcode" class="hash">#&lt;/a>&lt;/h2>
-&lt;!-- raw HTML omitted -->
+&lt;figure>&lt;img src="https://codemealkit.github.io/img/02bites.png"
+alt="중앙에 와플모양의 음식 이미지가 있는 레트로풍 포스터" height="400vw"/>&lt;figcaption>
+&lt;p>텍스트를 시각화하는 AI모델 미드저니(MidJourney)에 &amp;lsquo;code bites food retro poster&amp;rsquo;라는 문장을 적용하여 생성한 이미지&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;h4 id="code-bites">Code Bites &lt;a href="#code-bites" class="hash">#&lt;/a>&lt;/h4>
+&lt;p>&lt;!-- raw HTML omitted -->code snippet&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->처럼 짧은 토막의 코드를 여러 관점에서 다르게 읽어본다. 코드 자체의 의미뿐만 아니라, 프로그래밍의 패러다임, 컴퓨터적 사고방식 나아가 동시대 문화까지도 코드에서 읽어낼 수 있을지? 코드에 대한 창의적인 오독을 시도해보자.&lt;/p>
+&lt;h4 id="진행">진행 &lt;a href="#%ec%a7%84%ed%96%89" class="hash">#&lt;/a>&lt;/h4>
+&lt;p>김승범&lt;/p>
+&lt;h4 id="읽기자료">읽기자료 &lt;a href="#%ec%9d%bd%ea%b8%b0%ec%9e%90%eb%a3%8c" class="hash">#&lt;/a>&lt;/h4>
+&lt;p>Coming Soon!
+곧 업로드될 예정입니다.&lt;/p>
+&lt;p>&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />
+&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
+&lt;section class="footnotes" role="doc-endnotes">
 &lt;hr>
-&lt;h2 id="youtube-privacy-enhanced-shortcode">YouTube Privacy Enhanced Shortcode &lt;a href="#youtube-privacy-enhanced-shortcode" class="hash">#&lt;/a>&lt;/h2>
-&lt;!-- raw HTML omitted -->
-&lt;hr>
-&lt;h2 id="twitter-simple-shortcode">Twitter Simple Shortcode &lt;a href="#twitter-simple-shortcode" class="hash">#&lt;/a>&lt;/h2>
-&lt;!-- raw HTML omitted -->
-&lt;hr>
-&lt;h2 id="vimeo-simple-shortcode">Vimeo Simple Shortcode &lt;a href="#vimeo-simple-shortcode" class="hash">#&lt;/a>&lt;/h2></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_02bites/</guid><pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate></item><item><title>신선한 뿌리 샐러드</title><link>https://codemealkit.github.io/posts/program_01salad/</link><description>&lt;h3 id="신청하기">신청하기 &lt;a href="#%ec%8b%a0%ec%b2%ad%ed%95%98%ea%b8%b0" class="hash">#&lt;/a>&lt;/h3>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>code snippet(코드 스니펫)은 &amp;lsquo;코드 조각&amp;rsquo;, &amp;lsquo;짜투리 코드&amp;rsquo;로 번역할 수 있으며, 반복되는 코드를 쉽게 복사하여 사용할 수 있도록 단편화시킨 것을 말한다.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_02bites/</guid><pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate></item><item><title>신선한 뿌리 샐러드</title><link>https://codemealkit.github.io/posts/program_01salad/</link><description>&lt;h3 id="신청하기">신청하기 &lt;a href="#%ec%8b%a0%ec%b2%ad%ed%95%98%ea%b8%b0" class="hash">#&lt;/a>&lt;/h3>
 &lt;p>&lt;a href="http://asq.kr/01salad">http://asq.kr/01salad&lt;/a>&lt;/p>
 &lt;ol>
 &lt;li>원활한 워크숍 진행을 위하여 참여 인원을 10명으로 제한합니다.&lt;/li>
@@ -579,9 +598,6 @@ alt="둥근 그릇에 다양한 색상의 뿌리 채소가 엉킨채로 담겨�
 &lt;/figure>
 &lt;h4 id="fresh-roots-salad-bowl">Fresh Roots Salad Bowl &lt;a href="#fresh-roots-salad-bowl" class="hash">#&lt;/a>&lt;/h4>
 &lt;p>소통과 전달을 위한 인류의 다양한 신호 체계를 톹아보며, 상호 약속이자 관계의 언어로서 코드를 바라본다. 잉카의 매듭문자인 &lt;!-- raw HTML omitted -->Quipu&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->, 비인간 존재 더 나아가 외계와의 소통 등 엉뚱하게 뻗쳐나가는 다양한 언어의 뿌리들이 코드에 어떤 활기와 환기를 불어넣게 될까?&lt;/p>
-&lt;p style="display: block; margin-top: 0; margin-bottom: 0; white-space: pre-line">
-Searching various languages of mankind for communication and delivery, we look at computer code as a mutual promise and way of relationships. What kind of vitality and ventilation will the roots of languages, such as Quipu, Inca&amp;#39;s knot text blow into the code? And the communication with the outside world including non-human existence, can it be imagined?
-&lt;/p>
 &lt;h4 id="진행">진행 &lt;a href="#%ec%a7%84%ed%96%89" class="hash">#&lt;/a>&lt;/h4>
 &lt;p>전유진&lt;/p>
 &lt;h4 id="읽기자료">읽기자료 &lt;a href="#%ec%9d%bd%ea%b8%b0%ec%9e%90%eb%a3%8c" class="hash">#&lt;/a>&lt;/h4>
@@ -592,7 +608,10 @@ Searching various languages of mankind for communication and delivery, we look a
 &lt;hr>
 &lt;ol>
 &lt;li id="fn:1" role="doc-endnote">
-&lt;p>Quipu(키푸, Khipu)는 고대 잉카 문명에서 정보를 기록하기 위해 사용된 매듭 문자이다. 색을 입힌 알파카나 라마의 털로 만든 줄에 매듭을 묶어서 특정한 수나 정보를 전달했다. &lt;a href="https://en.wikipedia.org/wiki/Quipu">위키피디아&lt;/a>&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;p>Quipu(키푸, Khipu)는 고대 잉카 문명에서 정보를 기록하기 위해 사용된 매듭 문자이다. 색을 입힌 알파카나 라마의 털로 만든 줄에 매듭을 묶어서 특정한 수나 정보를 전달했다. &lt;a href="https://en.wikipedia.org/wiki/Quipu">위키피디아&lt;/a>
+&lt;p style="display: block; margin-top: 0; margin-bottom: 0; white-space: pre-line">
+Searching various languages of mankind for communication and delivery, we look at computer code as a mutual promise and way of relationships. What kind of vitality and ventilation will the roots of languages, such as Quipu, Inca&amp;#39;s knot text blow into the code? And the communication with the outside world including non-human existence, can it be imagined?
+&lt;/p>&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
 &lt;/section></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_01salad/</guid><pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate></item><item><title>운명의 바이너리</title><link>https://codemealkit.github.io/posts/brew_01binary/</link><description>&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p>
