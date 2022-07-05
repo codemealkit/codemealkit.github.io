@@ -1,138 +1,39 @@
 ---
 title: "신선한 뿌리 샐러드"
-description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem"
+author: "전유진"
+description: "The 1st menu of CODE MEAL KIT"
 date: "2021-07-23"
 tags:
 - program
 ---
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
-<!--more-->
+### 신청하기 
+[http://asq.kr/01salad](http://asq.kr/01salad)
+1. 원활한 워크숍 진행을 위하여 참여 인원을 10명으로 제한합니다.
+2. 워크숍은 서울시립 남서울미술관 1층 전시실에서 진행됩니다.
 
-## Headings
+{{<break>}}
+{{<break>}}
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+*** 
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+{{< figure src="/img/01salad.png" caption="텍스트를 시각화하는 AI모델 미드저니(MidJourney)에 'fresh roots salad bowl food'라는 문장을 적용하여 생성한 이미지" alt="둥근 그릇에 다양한 색상의 뿌리 채소가 엉킨채로 담겨있다" height="400vw">}}
+#### Fresh Roots Salad Bowl
+소통과 전달을 위한 인류의 다양한 신호 체계를 톹아보며, 상호 약속이자 관계의 언어로서 코드를 바라본다. 잉카의 매듭문자인 <cite>Quipu[^1]</cite>, 비인간 존재 더 나아가 외계와의 소통 등 엉뚱하게 뻗쳐나가는 다양한 언어의 뿌리들이 코드에 어떤 활기와 환기를 불어넣게 될까?
 
-## Paragraph
+{{<note "Searching various languages of mankind for communication and delivery, we look at computer code as a mutual promise and way of relationships. What kind of vitality and ventilation will the roots of languages, such as Quipu, Inca's knot text blow into the code? And the communication with the outside world including non-human existence, can it be imagined?">}}
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
+[^1]:Quipu(키푸, Khipu)는 고대 잉카 문명에서 정보를 기록하기 위해 사용된 매듭 문자이다. 색을 입힌 알파카나 라마의 털로 만든 줄에 매듭을 묶어서 특정한 수나 정보를 전달했다. [위키피디아](https://en.wikipedia.org/wiki/Quipu)
 
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
+{{<break>}}
+#### 진행  
+전유진
 
-## Blockquotes
+{{<break>}}
+#### 읽기자료 
+Coming Soon! 
+곧 업로드될 예정입니다. 
 
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
 
-#### Blockquote without attribution
-
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use *Markdown syntax* within a blockquote.
-
-#### Blockquote with attribution
-
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
-
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
-
-## Tables
-
-Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
-
-   Name | Age
---------|------
-    Bob | 27
-  Alice | 23
-
-#### Inline Markdown within tables
-
-| Italics   | Bold     | Code   |
-| --------  | -------- | ------ |
-| *italics* | **bold** | `code` |
-
-## Code Blocks
-
-#### Code block with backticks
-
-```html
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-```
-
-#### Code block indented with four spaces
-
-    <!doctype html>
-    <html lang="en">
-    <head>
-      <meta charset="utf-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
-
-#### Code block with Hugo's internal highlight shortcode
-{{< highlight html >}}
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-{{< /highlight >}}
-
-## List Types
-
-#### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-#### Unordered List
-
-* List item
-* Another item
-* And another item
-
-#### Nested list
-
-* Fruit
-  * Apple
-  * Orange
-  * Banana
-* Dairy
-  * Milk
-  * Cheese
-
-## Other Elements — abbr, sub, sup, kbd, mark
-
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+{{<break>}}
+{{<break>}}

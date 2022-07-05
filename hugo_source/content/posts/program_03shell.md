@@ -1,42 +1,35 @@
 ---
 title: "코드 껍질 깨기"
-description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem"
+description: "The 3rd menu of CODE MEAL KIT"
 date: "2021-08-06"
 tags:
 - program
 ---
 
-Lorem est tota propiore conpellat pectoribus de pectora summo. <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
+### 신청하기 
+1. 신청링크는 매 모임 2주 전에 열립니다. 
+2. 원활한 워크숍 진행을 위하여 참여 인원을 10명으로 제한합니다.
+3. 워크숍은 서울시립 남서울미술관 1층 전시실에서 진행됩니다.
 
-1. Exierant elisi ambit vivere dedere
-2. Duce pollice
-3. Eris modo
-4. Spargitque ferrea quos palude
 
-Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.
+{{<break>}}
+{{<break>}}
 
-1. Comas hunc haec pietate fetum procerum dixit
-2. Post torum vates letum Tiresia
-3. Flumen querellas
-4. Arcanaque montibus omnes
-5. Quidem et
+*** 
 
-# Vagus elidunt
+{{< figure src="/img/03shell.png" caption="텍스트를 시각화하는 AI모델 미드저니(MidJourney)에 'crack the nut shell food retro'라는 문장을 적용하여 생성한 이미지" alt="흰 접시 위에 갈색의 견과류로 추정되는 열매가 놓여있다." height="400vw">}}
+#### Crack the Code Shells 
+코드 신화와 IT 영웅 신화, 엘리티즘, 편향성, 젠더 이슈 등을 점검해보면서 과거와 현재의 기술문화에서 고착화된 단단한 구조, 틀, 외피에 대해 살펴본다. 
+{{<break>}}
 
-<svg class="canon" xmlns="http://www.w3.org/2000/svg" overflow="visible" viewBox="0 0 496 373" height="373" width="496"><g fill="none"><path stroke="#000" stroke-width=".75" d="M.599 372.348L495.263 1.206M.312.633l494.95 370.853M.312 372.633L247.643.92M248.502.92l246.76 370.566M330.828 123.869V1.134M330.396 1.134L165.104 124.515"></path><path stroke="#ED1C24" stroke-width=".75" d="M275.73 41.616h166.224v249.05H275.73zM54.478 41.616h166.225v249.052H54.478z"></path><path stroke="#000" stroke-width=".75" d="M.479.375h495v372h-495zM247.979.875v372"></path><ellipse cx="498.729" cy="177.625" rx=".75" ry="1.25"></ellipse><ellipse cx="247.229" cy="377.375" rx=".75" ry="1.25"></ellipse></g></svg>
+#### 진행  
+전유진, 정앎 
+{{<break>}}
 
-[The Van de Graaf Canon](https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon)
+#### 읽기자료 
+Coming Soon! 
+곧 업로드될 예정입니다. 
 
-## Mane refeci capiebant unda mulcebat
 
-Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. **Faces illo pepulere** tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.
-
-Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae vulnus haerentia iuste et exercebat, sui et.
-
-Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel **mitis temploque** vocatus, inque alis, *oculos nomen* non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides **parte**.
-
-{{< css.inline >}}
-<style>
-.canon { background: white; width: 100%; height: auto; }
-</style>
-{{< /css.inline >}}
+{{<break>}}
+{{<break>}}

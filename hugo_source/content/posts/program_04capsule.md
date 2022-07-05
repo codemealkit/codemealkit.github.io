@@ -1,49 +1,35 @@
 ---
-author: Hugo Authors
+author: 정앎
 title: 캡슐 머신 96-22 버라이어티팩
 date: 2021-08-13
 tags:
 - program
 ---
 
-Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.
-<!--more-->
+### 신청하기 
+1. 신청링크는 매 모임 2주 전에 열립니다. 
+2. 원활한 워크숍 진행을 위하여 참여 인원을 10명으로 제한합니다.
+3. 워크숍은 서울시립 남서울미술관 1층 전시실에서 진행됩니다.
 
-In this example we will be using [KaTeX](https://katex.org/)
 
-- Create a partial under `/layouts/partials/math.html`
-- Within this partial reference the [Auto-render Extension](https://katex.org/docs/autorender.html) or host these scripts locally.
-- Include the partial in your templates like so:  
+{{<break>}}
+{{<break>}}
 
-```bash
-{{ if or .Params.math .Site.Params.math }}
-{{ partial "math.html" . }}
-{{ end }}
-```
+*** 
 
-- To enable KaTex globally set the parameter `math` to `true` in a project's configuration
-- To enable KaTex on a per page basis include the parameter `math: true` in content files
+{{< figure src="/img/04pack.png" caption="텍스트를 시각화하는 AI모델 미드저니(MidJourney)에 'capsule coffee variety pack retro image'라는 문장을 적용하여 생성한 이미지" alt="여러개의 커피 머신 캡슐들이 나열되어 있다." height="400vw">}}
+#### Crack the Code Shells 
+거대한 데이터베이스는 어떻게 읽어야할까? ‘기계적 읽기'란 무엇이고 ‘인간적 읽기'란 무엇일까? 1996-2022 비엔날레 아카이브를 상용 AI model들과 함께 읽어본다. 데이터베이스화된 문화자본과 현재 ‘아트'의 관계, 나아가 ‘비평'의 영역까지, 기계의 해석이 시사하는 바는 무엇일까? 
+{{<break>}}
 
-**Note:** Use the online reference of [Supported TeX Functions](https://katex.org/docs/supported.html)
+#### 진행  
+정앎 
+{{<break>}}
 
-{{< math.inline >}}
-{{ if or .Page.Params.math .Site.Params.math }}
-<!-- KaTeX -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css" integrity="sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/+DiW/UqRcLbRjq" crossorigin="anonymous">
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js" integrity="sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz" crossorigin="anonymous"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
-{{ end }}
-{{</ math.inline >}}
+#### 읽기자료 
+Coming Soon! 
+곧 업로드될 예정입니다. 
 
-### Examples
 
-{{< math.inline >}}
-<p>
-Inline math: \(\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…\)
-</p>
-{{</ math.inline >}}
-
-Block math:
-$$
- \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
-$$
+{{<break>}}
+{{<break>}}

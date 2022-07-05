@@ -349,49 +349,55 @@ font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol,
 &lt;p>The above quote is excerpted from Rob Pike&amp;rsquo;s &lt;a href="https://www.youtube.com/watch?v=PAAkCSZUG1c">talk&lt;/a> during Gopherfest, November 18, 2015.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/section></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_04rule30/</guid><pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate></item><item><title>캡슐 머신 96-22 버라이어티팩</title><link>https://codemealkit.github.io/posts/program_04capsule/</link><description>&lt;p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p>
-&lt;p>In this example we will be using &lt;a href="https://katex.org/">KaTeX&lt;/a>&lt;/p>
-&lt;ul>
-&lt;li>Create a partial under &lt;code>/layouts/partials/math.html&lt;/code>&lt;/li>
-&lt;li>Within this partial reference the &lt;a href="https://katex.org/docs/autorender.html">Auto-render Extension&lt;/a> or host these scripts locally.&lt;/li>
-&lt;li>Include the partial in your templates like so:&lt;/li>
-&lt;/ul>
-&lt;pre>&lt;code class="language-bash">{{ if or .Params.math .Site.Params.math }}
-{{ partial &amp;quot;math.html&amp;quot; . }}
-{{ end }}
-&lt;/code>&lt;/pre>
-&lt;ul>
-&lt;li>To enable KaTex globally set the parameter &lt;code>math&lt;/code> to &lt;code>true&lt;/code> in a project&amp;rsquo;s configuration&lt;/li>
-&lt;li>To enable KaTex on a per page basis include the parameter &lt;code>math: true&lt;/code> in content files&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Note:&lt;/strong> Use the online reference of &lt;a href="https://katex.org/docs/supported.html">Supported TeX Functions&lt;/a>&lt;/p>
-&lt;h3 id="examples">Examples &lt;a href="#examples" class="hash">#&lt;/a>&lt;/h3>
-&lt;p>Block math:
-$$
-\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
-$$&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_04capsule/</guid><pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate></item><item><title>코드 껍질 깨기</title><link>https://codemealkit.github.io/posts/program_03shell/</link><description>&lt;p>Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p>
-&lt;p>Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p>
+&lt;/section></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_04rule30/</guid><pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate></item><item><title>캡슐 머신 96-22 버라이어티팩</title><link>https://codemealkit.github.io/posts/program_04capsule/</link><description>&lt;h3 id="신청하기">신청하기 &lt;a href="#%ec%8b%a0%ec%b2%ad%ed%95%98%ea%b8%b0" class="hash">#&lt;/a>&lt;/h3>
 &lt;ol>
-&lt;li>Exierant elisi ambit vivere dedere&lt;/li>
-&lt;li>Duce pollice&lt;/li>
-&lt;li>Eris modo&lt;/li>
-&lt;li>Spargitque ferrea quos palude&lt;/li>
+&lt;li>신청링크는 매 모임 2주 전에 열립니다.&lt;/li>
+&lt;li>원활한 워크숍 진행을 위하여 참여 인원을 10명으로 제한합니다.&lt;/li>
+&lt;li>워크숍은 서울시립 남서울미술관 1층 전시실에서 진행됩니다.&lt;/li>
 &lt;/ol>
-&lt;p>Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.&lt;/p>
+&lt;p>&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />
+&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
+&lt;hr>
+&lt;figure>&lt;img src="https://codemealkit.github.io/img/04pack.png"
+alt="여러개의 커피 머신 캡슐들이 나열되어 있다." height="400vw"/>&lt;figcaption>
+&lt;p>텍스트를 시각화하는 AI모델 미드저니(MidJourney)에 &amp;lsquo;capsule coffee variety pack retro image&amp;rsquo;라는 문장을 적용하여 생성한 이미지&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;h4 id="crack-the-code-shells">Crack the Code Shells &lt;a href="#crack-the-code-shells" class="hash">#&lt;/a>&lt;/h4>
+&lt;p>거대한 데이터베이스는 어떻게 읽어야할까? ‘기계적 읽기&amp;rsquo;란 무엇이고 ‘인간적 읽기&amp;rsquo;란 무엇일까? 1996-2022 비엔날레 아카이브를 상용 AI model들과 함께 읽어본다. 데이터베이스화된 문화자본과 현재 ‘아트&amp;rsquo;의 관계, 나아가 ‘비평&amp;rsquo;의 영역까지, 기계의 해석이 시사하는 바는 무엇일까?
+&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
+&lt;h4 id="진행">진행 &lt;a href="#%ec%a7%84%ed%96%89" class="hash">#&lt;/a>&lt;/h4>
+&lt;p>정앎
+&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
+&lt;h4 id="읽기자료">읽기자료 &lt;a href="#%ec%9d%bd%ea%b8%b0%ec%9e%90%eb%a3%8c" class="hash">#&lt;/a>&lt;/h4>
+&lt;p>Coming Soon!
+곧 업로드될 예정입니다.&lt;/p>
+&lt;p>&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />
+&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_04capsule/</guid><pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate></item><item><title>코드 껍질 깨기</title><link>https://codemealkit.github.io/posts/program_03shell/</link><description>&lt;h3 id="신청하기">신청하기 &lt;a href="#%ec%8b%a0%ec%b2%ad%ed%95%98%ea%b8%b0" class="hash">#&lt;/a>&lt;/h3>
 &lt;ol>
-&lt;li>Comas hunc haec pietate fetum procerum dixit&lt;/li>
-&lt;li>Post torum vates letum Tiresia&lt;/li>
-&lt;li>Flumen querellas&lt;/li>
-&lt;li>Arcanaque montibus omnes&lt;/li>
-&lt;li>Quidem et&lt;/li>
+&lt;li>신청링크는 매 모임 2주 전에 열립니다.&lt;/li>
+&lt;li>원활한 워크숍 진행을 위하여 참여 인원을 10명으로 제한합니다.&lt;/li>
+&lt;li>워크숍은 서울시립 남서울미술관 1층 전시실에서 진행됩니다.&lt;/li>
 &lt;/ol>
-&lt;h1 id="vagus-elidunt">Vagus elidunt &lt;a href="#vagus-elidunt" class="hash">#&lt;/a>&lt;/h1>
-&lt;p>&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;/p>
-&lt;p>&lt;a href="https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon">The Van de Graaf Canon&lt;/a>&lt;/p>
-&lt;h2 id="mane-refeci-capiebant-unda-mulcebat">Mane refeci capiebant unda mulcebat &lt;a href="#mane-refeci-capiebant-unda-mulcebat" class="hash">#&lt;/a>&lt;/h2>
-&lt;p>Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. &lt;strong>Faces illo pepulere&lt;/strong> tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.&lt;/p>
-&lt;p>Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae vulnus haerentia iuste et exercebat, sui et.&lt;/p>
-&lt;p>Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel &lt;strong>mitis temploque&lt;/strong> vocatus, inque alis, &lt;em>oculos nomen&lt;/em> non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides &lt;strong>parte&lt;/strong>.&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_03shell/</guid><pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate></item><item><title>코드 코멘트</title><link>https://codemealkit.github.io/posts/brew_03codecomment/</link><description>&lt;p>Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p>
+&lt;p>&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />
+&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
+&lt;hr>
+&lt;figure>&lt;img src="https://codemealkit.github.io/img/03shell.png"
+alt="흰 접시 위에 갈색의 견과류로 추정되는 열매가 놓여있다." height="400vw"/>&lt;figcaption>
+&lt;p>텍스트를 시각화하는 AI모델 미드저니(MidJourney)에 &amp;lsquo;crack the nut shell food retro&amp;rsquo;라는 문장을 적용하여 생성한 이미지&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;h4 id="crack-the-code-shells">Crack the Code Shells &lt;a href="#crack-the-code-shells" class="hash">#&lt;/a>&lt;/h4>
+&lt;p>코드 신화와 IT 영웅 신화, 엘리티즘, 편향성, 젠더 이슈 등을 점검해보면서 과거와 현재의 기술문화에서 고착화된 단단한 구조, 틀, 외피에 대해 살펴본다.
+&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
+&lt;h4 id="진행">진행 &lt;a href="#%ec%a7%84%ed%96%89" class="hash">#&lt;/a>&lt;/h4>
+&lt;p>전유진, 정앎
+&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
+&lt;h4 id="읽기자료">읽기자료 &lt;a href="#%ec%9d%bd%ea%b8%b0%ec%9e%90%eb%a3%8c" class="hash">#&lt;/a>&lt;/h4>
+&lt;p>Coming Soon!
+곧 업로드될 예정입니다.&lt;/p>
+&lt;p>&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />
+&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_03shell/</guid><pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate></item><item><title>코드 코멘트</title><link>https://codemealkit.github.io/posts/brew_03codecomment/</link><description>&lt;p>Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p>
 &lt;p>Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p>
 &lt;ol>
 &lt;li>Exierant elisi ambit vivere dedere&lt;/li>
@@ -562,7 +568,7 @@ $$&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</auth
 &lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
 &lt;hr>
 &lt;figure>&lt;img src="https://codemealkit.github.io/img/02bites.png"
-alt="중앙에 와플모양의 음식 이미지가 있는 레트로풍 포스터" height="400vw"/>&lt;figcaption>
+alt="중앙에 갈색의 음식이 있는 레트로풍 포스터" height="400vw"/>&lt;figcaption>
 &lt;p>텍스트를 시각화하는 AI모델 미드저니(MidJourney)에 &amp;lsquo;code bites food retro poster&amp;rsquo;라는 문장을 적용하여 생성한 이미지&lt;/p>
 &lt;/figcaption>
 &lt;/figure>
@@ -608,7 +614,8 @@ Searching various languages of mankind for communication and delivery, we look a
 &lt;p>전유진&lt;/p>
 &lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />
 &lt;h4 id="읽기자료">읽기자료 &lt;a href="#%ec%9d%bd%ea%b8%b0%ec%9e%90%eb%a3%8c" class="hash">#&lt;/a>&lt;/h4>
-&lt;p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p>
+&lt;p>Coming Soon!
+곧 업로드될 예정입니다.&lt;/p>
 &lt;p>&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />
 &lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
 &lt;section class="footnotes" role="doc-endnotes">
