@@ -1,6 +1,7 @@
 ---
 author: 정앎
 title: 캡슐 머신 96-22 버라이어티팩
+description: "The 4th menu of CODE MEAL KIT"
 date: 2021-08-13
 tags:
 - program
@@ -24,6 +25,10 @@ tags:
 
 #### 진행  
 정앎 
+{{<break>}}
+
+#### 게스트 
+권진
 {{<break>}}
 
 #### 읽기자료 

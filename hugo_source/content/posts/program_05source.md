@@ -1,44 +1,32 @@
 ---
+author: 전유진
 title: "엎질러진 소스"
-description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem"
+description: "The 5th menu of CODE MEAL KIT"
 date: "2021-08-20"
 tags:
 - program
 ---
 
-Emoji can be enabled in a Hugo project in a number of ways.
-<!--more-->
-The [`emojify`](https://gohugo.io/functions/emojify/) function can be called directly in templates or [Inline Shortcodes](https://gohugo.io/templates/shortcode-templates/#inline-shortcodes).
+### 신청하기 
+1. 신청링크는 매 모임 2주 전에 열립니다. 
+2. 원활한 워크숍 진행을 위하여 참여 인원을 10명으로 제한합니다.
+3. 워크숍은 서울시립 남서울미술관 1층 전시실에서 진행됩니다.
 
-To enable emoji globally, set `enableEmoji` to `true` in your site's [configuration](https://gohugo.io/getting-started/configuration/) and then you can type emoji shorthand codes directly in content files; e.g.
 
-<p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
-<br>
+{{<break>}}
+{{<break>}}
 
-The [Emoji cheat sheet](http://www.emoji-cheat-sheet.com/) is a useful reference for emoji shorthand codes.
+*** 
 
-***
+{{< figure src="/img/05source.png" caption="텍스트를 시각화하는 AI모델 미드저니(MidJourney)에 'spilled source food retro '라는 문장을 적용하여 생성한 이미지" alt="둥근 접시에 묽은 음식이 가득차있다" height="400vw">}}
+#### Spilled Source
+코드에 대한 접근성, 개방성에 관해 이야기 해보자. 오픈 소스는 ‘오픈'된 것이 맞을까? 넓게 펴바르는 행위(spread)는 결국 얇아질 수 밖에 없는 운명적 한계에 봉착하게 될까? 예술가, 예술기관 등 여러 층위의 창작 단위가 저마다의 관점으로 보고 있는 오픈 소스라는 오랜 담론을 해체해본다. 
+{{<break>}}
 
-**N.B.** The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.
+#### 진행  
+전유진
+{{<break>}}
 
-{{< highlight html >}}
-.emoji {
-  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-}
-{{< /highlight >}}
-
-{{< css.inline >}}
-<style>
-.emojify {
-	font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-	font-size: 2rem;
-	vertical-align: middle;
-}
-@media screen and (max-width:650px) {
-  .nowrap {
-    display: block;
-    margin: 25px 0;
-  }
-}
-</style>
-{{< /css.inline >}}
+#### 읽기자료 
+Coming Soon! 
+곧 업로드될 예정입니다. 

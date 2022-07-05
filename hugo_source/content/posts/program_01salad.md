@@ -8,7 +8,7 @@ tags:
 ---
 
 ### 신청하기 
-[http://asq.kr/01salad](http://asq.kr/01salad)
+[https://c11.kr/01salad](https://c11.kr/01salad)
 1. 원활한 워크숍 진행을 위하여 참여 인원을 10명으로 제한합니다.
 2. 워크숍은 서울시립 남서울미술관 1층 전시실에서 진행됩니다.
 
