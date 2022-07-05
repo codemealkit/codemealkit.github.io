@@ -1,6 +1,26 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CODE MEAL KIT</title><description/><link>https://codemealkit.github.io/</link><language>en</language><copyright>Copyright 2022, Ronalds Vilcins</copyright><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate><generator>Hugo - gohugo.io</generator><docs>http://cyber.harvard.edu/rss/rss.html</docs><atom:link href="https://ronaldsvilcins.com/atom.xml" rel="self" type="application/atom+xml"/><item><title>코드 브루 - 테이스팅룸</title><link>https://codemealkit.github.io/posts/program_10tasting/</link><description>&lt;p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p>
-&lt;p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p>
-&lt;p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_10tasting/</guid><pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate></item><item><title>자연의 리듬</title><link>https://codemealkit.github.io/posts/brew_09nature/</link><description>&lt;p>Hugo ships with several &lt;a href="https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes">Built-in Shortcodes&lt;/a> for rich content, along with a &lt;a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config&lt;/a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CODE MEAL KIT</title><description/><link>https://codemealkit.github.io/</link><language>en</language><copyright>Copyright 2022, Ronalds Vilcins</copyright><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate><generator>Hugo - gohugo.io</generator><docs>http://cyber.harvard.edu/rss/rss.html</docs><atom:link href="https://ronaldsvilcins.com/atom.xml" rel="self" type="application/atom+xml"/><item><title>코드 브루 - 테이스팅룸</title><link>https://codemealkit.github.io/posts/program_10tasting/</link><description>&lt;h3 id="신청하기">신청하기 &lt;a href="#%ec%8b%a0%ec%b2%ad%ed%95%98%ea%b8%b0" class="hash">#&lt;/a>&lt;/h3>
+&lt;ol>
+&lt;li>신청링크는 매 모임 2주 전에 열립니다.&lt;/li>
+&lt;li>원활한 워크숍 진행을 위하여 참여 인원을 10명으로 제한합니다.&lt;/li>
+&lt;li>워크숍은 서울시립 남서울미술관 1층 전시실에서 진행됩니다.&lt;/li>
+&lt;/ol>
+&lt;p>&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />
+&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
+&lt;hr>
+&lt;figure>&lt;img src="https://codemealkit.github.io/img/10room.png"
+alt="둥근 구 안에 갈색의 찻물이 담겨있다. " height="400vw"/>&lt;figcaption>
+&lt;p>텍스트를 시각화하는 AI모델 미드저니(MidJourney)에 &amp;lsquo;tea bag code brewing retro poster&amp;rsquo;라는 문장을 적용하여 생성한 이미지&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;h4 id="code-brew--tasting-room">Code Brew : Tasting Room &lt;a href="#code-brew--tasting-room" class="hash">#&lt;/a>&lt;/h4>
+&lt;p>매 모임마다 진행했던 코드 브루(Code Brew)를 모두 모아 시음회를 연다. 각 코드 브루에서 소개된 코드와 함께 매칭된 티 이야기를 듣는다.
+&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
+&lt;h4 id="진행">진행 &lt;a href="#%ec%a7%84%ed%96%89" class="hash">#&lt;/a>&lt;/h4>
+&lt;p>참여자&lt;br>
+&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
+&lt;h4 id="읽기자료">읽기자료 &lt;a href="#%ec%9d%bd%ea%b8%b0%ec%9e%90%eb%a3%8c" class="hash">#&lt;/a>&lt;/h4>
+&lt;p>Coming Soon!
+곧 업로드될 예정입니다.&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_10tasting/</guid><pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate></item><item><title>자연의 리듬</title><link>https://codemealkit.github.io/posts/brew_09nature/</link><description>&lt;p>Hugo ships with several &lt;a href="https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes">Built-in Shortcodes&lt;/a> for rich content, along with a &lt;a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config&lt;/a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p>
 &lt;hr>
 &lt;h2 id="instagram-simple-shortcode">Instagram Simple Shortcode &lt;a href="#instagram-simple-shortcode" class="hash">#&lt;/a>&lt;/h2>
 &lt;!-- raw HTML omitted -->
@@ -11,9 +31,29 @@
 &lt;h2 id="twitter-simple-shortcode">Twitter Simple Shortcode &lt;a href="#twitter-simple-shortcode" class="hash">#&lt;/a>&lt;/h2>
 &lt;!-- raw HTML omitted -->
 &lt;hr>
-&lt;h2 id="vimeo-simple-shortcode">Vimeo Simple Shortcode &lt;a href="#vimeo-simple-shortcode" class="hash">#&lt;/a>&lt;/h2></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_09nature/</guid><pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate></item><item><title>코드 아라카르트 II</title><link>https://codemealkit.github.io/posts/program_09carte2/</link><description>&lt;p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p>
-&lt;p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p>
-&lt;p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_09carte2/</guid><pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate></item><item><title>연산의 순서</title><link>https://codemealkit.github.io/posts/brew_08order/</link><description>&lt;p>Emoji can be enabled in a Hugo project in a number of ways.&lt;/p>
+&lt;h2 id="vimeo-simple-shortcode">Vimeo Simple Shortcode &lt;a href="#vimeo-simple-shortcode" class="hash">#&lt;/a>&lt;/h2></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_09nature/</guid><pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate></item><item><title>코드 아라카르트 II</title><link>https://codemealkit.github.io/posts/program_09carte2/</link><description>&lt;h3 id="신청하기">신청하기 &lt;a href="#%ec%8b%a0%ec%b2%ad%ed%95%98%ea%b8%b0" class="hash">#&lt;/a>&lt;/h3>
+&lt;ol>
+&lt;li>신청링크는 매 모임 2주 전에 열립니다.&lt;/li>
+&lt;li>원활한 워크숍 진행을 위하여 참여 인원을 10명으로 제한합니다.&lt;/li>
+&lt;li>워크숍은 서울시립 남서울미술관 1층 전시실에서 진행됩니다.&lt;/li>
+&lt;/ol>
+&lt;p>&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />
+&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
+&lt;hr>
+&lt;figure>&lt;img src="https://codemealkit.github.io/img/09carte2.png"
+alt="흰 접시에 초록색 잎과 함께 음식이 담겨있다. " height="400vw"/>&lt;figcaption>
+&lt;p>텍스트를 시각화하는 AI모델 미드저니(MidJourney)에 &amp;lsquo;code a la carte food retro&amp;rsquo;라는 문장을 적용하여 생성한 이미지&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;h4 id="code-a-la-carte-ii">Code a la carte II &lt;a href="#code-a-la-carte-ii" class="hash">#&lt;/a>&lt;/h4>
+&lt;p>주제를 열어둔 테이블. 각 테이블을 진행하면서 추가적으로 더 대화가 필요한 주제나 함께 참여한 이들이 자유롭게 제시하는 주제로 꾸려지게 된다. 각 모임에서 충분히 이야기 나누지 못했던 주제나, 확장-파생된 주제를 참여자의 제안으로 꾸린다.
+&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
+&lt;h4 id="진행">진행 &lt;a href="#%ec%a7%84%ed%96%89" class="hash">#&lt;/a>&lt;/h4>
+&lt;p>참여자&lt;br>
+&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
+&lt;h4 id="읽기자료">읽기자료 &lt;a href="#%ec%9d%bd%ea%b8%b0%ec%9e%90%eb%a3%8c" class="hash">#&lt;/a>&lt;/h4>
+&lt;p>Coming Soon!
+곧 업로드될 예정입니다.&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_09carte2/</guid><pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate></item><item><title>연산의 순서</title><link>https://codemealkit.github.io/posts/brew_08order/</link><description>&lt;p>Emoji can be enabled in a Hugo project in a number of ways.&lt;/p>
 &lt;p>The &lt;a href="https://gohugo.io/functions/emojify/">&lt;code>emojify&lt;/code>&lt;/a> function can be called directly in templates or &lt;a href="https://gohugo.io/templates/shortcode-templates/#inline-shortcodes">Inline Shortcodes&lt;/a>.&lt;/p>
 &lt;p>To enable emoji globally, set &lt;code>enableEmoji&lt;/code> to &lt;code>true&lt;/code> in your site&amp;rsquo;s &lt;a href="https://gohugo.io/getting-started/configuration/">configuration&lt;/a> and then you can type emoji shorthand codes directly in content files; e.g.&lt;/p>
 &lt;!-- raw HTML omitted -->
@@ -22,9 +62,29 @@
 &lt;p>&lt;strong>N.B.&lt;/strong> The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-html" data-lang="html">.emoji {
 font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-}&lt;/code>&lt;/pre>&lt;/div></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_08order/</guid><pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate></item><item><title>코드 아라카르트 I</title><link>https://codemealkit.github.io/posts/program_08carte1/</link><description>&lt;p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p>
-&lt;p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p>
-&lt;p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_08carte1/</guid><pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate></item><item><title>재귀적 Hello, World</title><link>https://codemealkit.github.io/posts/brew_07helloworld/</link><description>&lt;p>Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p>
+}&lt;/code>&lt;/pre>&lt;/div></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_08order/</guid><pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate></item><item><title>코드 아라카르트 I</title><link>https://codemealkit.github.io/posts/program_08carte1/</link><description>&lt;h3 id="신청하기">신청하기 &lt;a href="#%ec%8b%a0%ec%b2%ad%ed%95%98%ea%b8%b0" class="hash">#&lt;/a>&lt;/h3>
+&lt;ol>
+&lt;li>신청링크는 매 모임 2주 전에 열립니다.&lt;/li>
+&lt;li>원활한 워크숍 진행을 위하여 참여 인원을 10명으로 제한합니다.&lt;/li>
+&lt;li>워크숍은 서울시립 남서울미술관 1층 전시실에서 진행됩니다.&lt;/li>
+&lt;/ol>
+&lt;p>&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />
+&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
+&lt;hr>
+&lt;figure>&lt;img src="https://codemealkit.github.io/img/08carte1.png"
+alt="흰 접시에 음식이 놓여있다." height="400vw"/>&lt;figcaption>
+&lt;p>텍스트를 시각화하는 AI모델 미드저니(MidJourney)에 &amp;lsquo;code a la carte food retro&amp;rsquo;라는 문장을 적용하여 생성한 이미지&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;h4 id="code-a-la-carte-i">Code a la carte I &lt;a href="#code-a-la-carte-i" class="hash">#&lt;/a>&lt;/h4>
+&lt;p>각 테이블을 진행하면서 추가적으로 더 대화가 필요한 주제나 함께 참여한 이들이 자유롭게 제시하는 주제로 꾸려지게 된다. 최종의 질문 카드 셋을 완성하기 위해 그간 축적된 질문을 다시 살펴본다.
+&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
+&lt;h4 id="진행">진행 &lt;a href="#%ec%a7%84%ed%96%89" class="hash">#&lt;/a>&lt;/h4>
+&lt;p>김승범&lt;br>
+&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
+&lt;h4 id="읽기자료">읽기자료 &lt;a href="#%ec%9d%bd%ea%b8%b0%ec%9e%90%eb%a3%8c" class="hash">#&lt;/a>&lt;/h4>
+&lt;p>Coming Soon!
+곧 업로드될 예정입니다.&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_08carte1/</guid><pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate></item><item><title>재귀적 Hello, World</title><link>https://codemealkit.github.io/posts/brew_07helloworld/</link><description>&lt;p>Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p>
 &lt;p>Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p>
 &lt;ol>
 &lt;li>Exierant elisi ambit vivere dedere&lt;/li>
@@ -46,9 +106,32 @@ font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol,
 &lt;h2 id="mane-refeci-capiebant-unda-mulcebat">Mane refeci capiebant unda mulcebat &lt;a href="#mane-refeci-capiebant-unda-mulcebat" class="hash">#&lt;/a>&lt;/h2>
 &lt;p>Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. &lt;strong>Faces illo pepulere&lt;/strong> tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.&lt;/p>
 &lt;p>Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae vulnus haerentia iuste et exercebat, sui et.&lt;/p>
-&lt;p>Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel &lt;strong>mitis temploque&lt;/strong> vocatus, inque alis, &lt;em>oculos nomen&lt;/em> non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides &lt;strong>parte&lt;/strong>.&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_07helloworld/</guid><pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate></item><item><title>소화불량에 대처하기</title><link>https://codemealkit.github.io/posts/program_07digestion/</link><description>&lt;p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p>
-&lt;p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p>
-&lt;p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_07digestion/</guid><pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate></item><item><title>바빌로니아 법</title><link>https://codemealkit.github.io/posts/brew_06babylonia/</link><description>&lt;p>Hugo ships with several &lt;a href="https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes">Built-in Shortcodes&lt;/a> for rich content, along with a &lt;a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config&lt;/a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p>
+&lt;p>Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel &lt;strong>mitis temploque&lt;/strong> vocatus, inque alis, &lt;em>oculos nomen&lt;/em> non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides &lt;strong>parte&lt;/strong>.&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_07helloworld/</guid><pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate></item><item><title>소화불량에 대처하기</title><link>https://codemealkit.github.io/posts/program_07digestion/</link><description>&lt;h3 id="신청하기">신청하기 &lt;a href="#%ec%8b%a0%ec%b2%ad%ed%95%98%ea%b8%b0" class="hash">#&lt;/a>&lt;/h3>
+&lt;ol>
+&lt;li>신청링크는 매 모임 2주 전에 열립니다.&lt;/li>
+&lt;li>원활한 워크숍 진행을 위하여 참여 인원을 10명으로 제한합니다.&lt;/li>
+&lt;li>워크숍은 서울시립 남서울미술관 1층 전시실에서 진행됩니다.&lt;/li>
+&lt;/ol>
+&lt;p>&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />
+&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
+&lt;hr>
+&lt;figure>&lt;img src="https://codemealkit.github.io/img/07relief.png"
+alt="relief라는 상단의 타이틀과 함께 하단에 녹색의 긴 타원 이미지" height="400vw"/>&lt;figcaption>
+&lt;p>텍스트를 시각화하는 AI모델 미드저니(MidJourney)에 &amp;lsquo;relief for digestion pill remedy food retro&amp;rsquo;라는 문장을 적용하여 생성한 이미지&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;h4 id="relief-for-code-digestion">Relief for Code Digestion &lt;a href="#relief-for-code-digestion" class="hash">#&lt;/a>&lt;/h4>
+&lt;p>우리는 어디까지 코드를 소화하고 있는가? 코딩을 할 수 있는 것과는 다른 측면에서 코드를 이해하는 과정이 필요할까? 코딩 열풍, 코드 신화, 코드에 관한 편견 등 현재진행형으로 꿈틀대는 코드의 사회문화적 지형(code tropes)을 살펴본다. No-code, Low code 등 코딩을 최소화하는 플랫폼, 말로하는 코딩을 표방하는 OpenAI의 Codex 등의 등장으로, 기존의 코딩 패러다임은 어떻게 바뀔까? 그리고 무한히 증식하는 그 가변성 앞에서 소화불량에 대처하는 각자의 방식을 공유한다.
+&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
+&lt;h4 id="진행">진행 &lt;a href="#%ec%a7%84%ed%96%89" class="hash">#&lt;/a>&lt;/h4>
+&lt;p>김승범&lt;br>
+&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
+&lt;h4 id="게스트">게스트 &lt;a href="#%ea%b2%8c%ec%8a%a4%ed%8a%b8" class="hash">#&lt;/a>&lt;/h4>
+&lt;p>최승준
+&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
+&lt;h4 id="읽기자료">읽기자료 &lt;a href="#%ec%9d%bd%ea%b8%b0%ec%9e%90%eb%a3%8c" class="hash">#&lt;/a>&lt;/h4>
+&lt;p>Coming Soon!
+곧 업로드될 예정입니다.&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_07digestion/</guid><pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate></item><item><title>바빌로니아 법</title><link>https://codemealkit.github.io/posts/brew_06babylonia/</link><description>&lt;p>Hugo ships with several &lt;a href="https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes">Built-in Shortcodes&lt;/a> for rich content, along with a &lt;a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config&lt;/a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p>
 &lt;hr>
 &lt;h2 id="instagram-simple-shortcode">Instagram Simple Shortcode &lt;a href="#instagram-simple-shortcode" class="hash">#&lt;/a>&lt;/h2>
 &lt;!-- raw HTML omitted -->
@@ -59,10 +142,29 @@ font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol,
 &lt;h2 id="twitter-simple-shortcode">Twitter Simple Shortcode &lt;a href="#twitter-simple-shortcode" class="hash">#&lt;/a>&lt;/h2>
 &lt;!-- raw HTML omitted -->
 &lt;hr>
-&lt;h2 id="vimeo-simple-shortcode">Vimeo Simple Shortcode &lt;a href="#vimeo-simple-shortcode" class="hash">#&lt;/a>&lt;/h2></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_06babylonia/</guid><pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate></item><item><title>함부르크 함박 햄버그</title><link>https://codemealkit.github.io/posts/program_06hamburg/</link><description>&lt;p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p>
-&lt;p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p>
-&lt;p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p>
-&lt;p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_06hamburg/</guid><pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate></item><item><title>스테가노그래피</title><link>https://codemealkit.github.io/posts/brew_05steganography/</link><description>&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p>
+&lt;h2 id="vimeo-simple-shortcode">Vimeo Simple Shortcode &lt;a href="#vimeo-simple-shortcode" class="hash">#&lt;/a>&lt;/h2></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_06babylonia/</guid><pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate></item><item><title>함부르크 함박 햄버그</title><link>https://codemealkit.github.io/posts/program_06hamburg/</link><description>&lt;h3 id="신청하기">신청하기 &lt;a href="#%ec%8b%a0%ec%b2%ad%ed%95%98%ea%b8%b0" class="hash">#&lt;/a>&lt;/h3>
+&lt;ol>
+&lt;li>신청링크는 매 모임 2주 전에 열립니다.&lt;/li>
+&lt;li>원활한 워크숍 진행을 위하여 참여 인원을 10명으로 제한합니다.&lt;/li>
+&lt;li>워크숍은 서울시립 남서울미술관 1층 전시실에서 진행됩니다.&lt;/li>
+&lt;/ol>
+&lt;p>&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />
+&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
+&lt;hr>
+&lt;figure>&lt;img src="https://codemealkit.github.io/img/06hamburg.png"
+alt="중앙에 햄버거가 배치된 레트로풍 포스터" height="400vw"/>&lt;figcaption>
+&lt;p>텍스트를 시각화하는 AI모델 미드저니(MidJourney)에 &amp;lsquo;hamburg hamburger food retro poster &amp;lsquo;라는 문장을 적용하여 생성한 이미지&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;h4 id="hamburg-hamburg-hamburg">Hamburg Hamburg Hamburg &lt;a href="#hamburg-hamburg-hamburg" class="hash">#&lt;/a>&lt;/h4>
+&lt;p>코드에 대한 세계화(i18n) 정책, 깃헙(github)에서 통용되는 README.md 파일, p5js FES(Friendly Error System) 번역 등 기술의 번역에 관해 이야기한다. 본 모임은 특별히 교육자 및 학생인 참여자에 한하여 모집하려 한다.
+&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
+&lt;h4 id="진행">진행 &lt;a href="#%ec%a7%84%ed%96%89" class="hash">#&lt;/a>&lt;/h4>
+&lt;p>정앎
+&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
+&lt;h4 id="읽기자료">읽기자료 &lt;a href="#%ec%9d%bd%ea%b8%b0%ec%9e%90%eb%a3%8c" class="hash">#&lt;/a>&lt;/h4>
+&lt;p>Coming Soon!
+곧 업로드될 예정입니다.&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_06hamburg/</guid><pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate></item><item><title>스테가노그래피</title><link>https://codemealkit.github.io/posts/brew_05steganography/</link><description>&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p>
 &lt;h2 id="headings">Headings &lt;a href="#headings" class="hash">#&lt;/a>&lt;/h2>
 &lt;p>The following HTML &lt;code>&amp;lt;h1&amp;gt;&lt;/code>—&lt;code>&amp;lt;h6&amp;gt;&lt;/code> elements represent six levels of section headings. &lt;code>&amp;lt;h1&amp;gt;&lt;/code> is the highest section level while &lt;code>&amp;lt;h6&amp;gt;&lt;/code> is the lowest.&lt;/p>
 &lt;h1 id="h1">H1 &lt;a href="#h1" class="hash">#&lt;/a>&lt;/h1>
@@ -201,16 +303,29 @@ font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol,
 &lt;p>The above quote is excerpted from Rob Pike&amp;rsquo;s &lt;a href="https://www.youtube.com/watch?v=PAAkCSZUG1c">talk&lt;/a> during Gopherfest, November 18, 2015.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/section></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_05steganography/</guid><pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate></item><item><title>엎질러진 소스</title><link>https://codemealkit.github.io/posts/program_05source/</link><description>&lt;p>Emoji can be enabled in a Hugo project in a number of ways.&lt;/p>
-&lt;p>The &lt;a href="https://gohugo.io/functions/emojify/">&lt;code>emojify&lt;/code>&lt;/a> function can be called directly in templates or &lt;a href="https://gohugo.io/templates/shortcode-templates/#inline-shortcodes">Inline Shortcodes&lt;/a>.&lt;/p>
-&lt;p>To enable emoji globally, set &lt;code>enableEmoji&lt;/code> to &lt;code>true&lt;/code> in your site&amp;rsquo;s &lt;a href="https://gohugo.io/getting-started/configuration/">configuration&lt;/a> and then you can type emoji shorthand codes directly in content files; e.g.&lt;/p>
-&lt;!-- raw HTML omitted -->
-&lt;p>The &lt;a href="http://www.emoji-cheat-sheet.com/">Emoji cheat sheet&lt;/a> is a useful reference for emoji shorthand codes.&lt;/p>
+&lt;/section></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_05steganography/</guid><pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate></item><item><title>엎질러진 소스</title><link>https://codemealkit.github.io/posts/program_05source/</link><description>&lt;h3 id="신청하기">신청하기 &lt;a href="#%ec%8b%a0%ec%b2%ad%ed%95%98%ea%b8%b0" class="hash">#&lt;/a>&lt;/h3>
+&lt;ol>
+&lt;li>신청링크는 매 모임 2주 전에 열립니다.&lt;/li>
+&lt;li>원활한 워크숍 진행을 위하여 참여 인원을 10명으로 제한합니다.&lt;/li>
+&lt;li>워크숍은 서울시립 남서울미술관 1층 전시실에서 진행됩니다.&lt;/li>
+&lt;/ol>
+&lt;p>&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />
+&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
 &lt;hr>
-&lt;p>&lt;strong>N.B.&lt;/strong> The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-html" data-lang="html">.emoji {
-font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-}&lt;/code>&lt;/pre>&lt;/div></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_05source/</guid><pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate></item><item><title>Rule 30 CA (30번째 룰)</title><link>https://codemealkit.github.io/posts/brew_04rule30/</link><description>&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p>
+&lt;figure>&lt;img src="https://codemealkit.github.io/img/05source.png"
+alt="둥근 접시에 묽은 음식이 가득차있다" height="400vw"/>&lt;figcaption>
+&lt;p>텍스트를 시각화하는 AI모델 미드저니(MidJourney)에 &amp;lsquo;spilled source food retro &amp;lsquo;라는 문장을 적용하여 생성한 이미지&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;h4 id="spilled-source">Spilled Source &lt;a href="#spilled-source" class="hash">#&lt;/a>&lt;/h4>
+&lt;p>코드에 대한 접근성, 개방성에 관해 이야기 해보자. 오픈 소스는 ‘오픈&amp;rsquo;된 것이 맞을까? 넓게 펴바르는 행위(spread)는 결국 얇아질 수 밖에 없는 운명적 한계에 봉착하게 될까? 예술가, 예술기관 등 여러 층위의 창작 개체가 보고 있는 오픈 소스라는 거대한 담론을 해체해본다.
+&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
+&lt;h4 id="진행">진행 &lt;a href="#%ec%a7%84%ed%96%89" class="hash">#&lt;/a>&lt;/h4>
+&lt;p>전유진
+&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
+&lt;h4 id="읽기자료">읽기자료 &lt;a href="#%ec%9d%bd%ea%b8%b0%ec%9e%90%eb%a3%8c" class="hash">#&lt;/a>&lt;/h4>
+&lt;p>Coming Soon!
+곧 업로드될 예정입니다.&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_05source/</guid><pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate></item><item><title>Rule 30 CA (30번째 룰)</title><link>https://codemealkit.github.io/posts/brew_04rule30/</link><description>&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p>
 &lt;h2 id="headings">Headings &lt;a href="#headings" class="hash">#&lt;/a>&lt;/h2>
 &lt;p>The following HTML &lt;code>&amp;lt;h1&amp;gt;&lt;/code>—&lt;code>&amp;lt;h6&amp;gt;&lt;/code> elements represent six levels of section headings. &lt;code>&amp;lt;h1&amp;gt;&lt;/code> is the highest section level while &lt;code>&amp;lt;h6&amp;gt;&lt;/code> is the lowest.&lt;/p>
 &lt;h1 id="h1">H1 &lt;a href="#h1" class="hash">#&lt;/a>&lt;/h1>
@@ -368,6 +483,9 @@ alt="여러개의 커피 머신 캡슐들이 나열되어 있다." height="400vw
 &lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
 &lt;h4 id="진행">진행 &lt;a href="#%ec%a7%84%ed%96%89" class="hash">#&lt;/a>&lt;/h4>
 &lt;p>정앎
+&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
+&lt;h4 id="게스트">게스트 &lt;a href="#%ea%b2%8c%ec%8a%a4%ed%8a%b8" class="hash">#&lt;/a>&lt;/h4>
+&lt;p>권진
 &lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
 &lt;h4 id="읽기자료">읽기자료 &lt;a href="#%ec%9d%bd%ea%b8%b0%ec%9e%90%eb%a3%8c" class="hash">#&lt;/a>&lt;/h4>
 &lt;p>Coming Soon!
