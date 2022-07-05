@@ -8,13 +8,14 @@
 
 
       <ul class="posts">
-  {{ range .Data.Pages }}
-    <li>
-      <a href="{{.RelPermalink}}">{{ .Title }} </a>
-      <time datetime="{{ dateFormat "2006-01-02" .Date }}">{{ dateFormat "2006-01-02" .Date }}</time>
-    </li>
-  {{ end }}
-</ul>
+        {{ range .Data.Pages.Reverse }}
+          <li>
+            <a href="{{ .Permalink }}" title="{{ .Title }}" itemprop="name url">{{ .Title }}</a>
+            <hr>
+            <time datetime="{{ dateFormat "01/02" .Date }}">{{ dateFormat "01/02" .Date }}</time>
+          </li>
+        {{ end }}
+      </ul>
 
 
 

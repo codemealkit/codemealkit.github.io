@@ -45,9 +45,8 @@ minify = true
   twitter = ""
 
 [permalinks]
-  posts = "program/:filename"
+  posts = "posts/:filename"
   pages = "/:slug"
-  brew = "brew/:filename"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
@@ -60,6 +59,9 @@ minify = true
 [outputFormats.JSON]
   mediatype = "application/json"
   baseName = "feed"
+
+[blackfriday]
+  extensions = ["hardLineBreak"]
 
 [sitemap]
   changefreq = "monthly"
@@ -74,13 +76,13 @@ minify = true
     weight     = -111
 
   [[menu.main]]
-    identifier = "index"
+    identifier = "program"
     name       = "Program"
-    url        = "/"
+    url        = "/tags/program/"
     weight     = -20
 
   [[menu.main]]
-    identifier = "brew"
+    identifier = "codebrew"
     name       = "Code Brew"
-    url        = "/brew/"
+    url        = "/tags/codebrew/"
     weight     = -10
