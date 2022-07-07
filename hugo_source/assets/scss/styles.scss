@@ -89,13 +89,10 @@ figure img {
 }
 
 figure figcaption {
-	position: absolute;
-	right: 3vw;
-	margin-left: 1em;
-	display: inline-block;
-	text-align: right;
+	text-align: left;
+	margin-top: -0.4rem;
 	font-size: 0.6rem;
-	width: 22em;
+	width: 21em;
 	font-family: 'Noto Sans KR', sans-serif;
 }
 
