@@ -23,18 +23,24 @@ alt="둥근 구 안에 갈색의 찻물이 담겨있다. " height="400vw"/>&lt;f
 &lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
 &lt;h4 id="읽기자료">읽기자료 &lt;a href="#%ec%9d%bd%ea%b8%b0%ec%9e%90%eb%a3%8c" class="hash">#&lt;/a>&lt;/h4>
 &lt;p>Coming Soon!
-곧 업로드될 예정입니다.&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_10tasting/</guid><pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate></item><item><title>자연의 리듬</title><link>https://codemealkit.github.io/posts/brew_09nature/</link><description>&lt;p>Hugo ships with several &lt;a href="https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes">Built-in Shortcodes&lt;/a> for rich content, along with a &lt;a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config&lt;/a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p>
-&lt;hr>
-&lt;h2 id="instagram-simple-shortcode">Instagram Simple Shortcode &lt;a href="#instagram-simple-shortcode" class="hash">#&lt;/a>&lt;/h2>
-&lt;!-- raw HTML omitted -->
-&lt;hr>
-&lt;h2 id="youtube-privacy-enhanced-shortcode">YouTube Privacy Enhanced Shortcode &lt;a href="#youtube-privacy-enhanced-shortcode" class="hash">#&lt;/a>&lt;/h2>
-&lt;!-- raw HTML omitted -->
-&lt;hr>
-&lt;h2 id="twitter-simple-shortcode">Twitter Simple Shortcode &lt;a href="#twitter-simple-shortcode" class="hash">#&lt;/a>&lt;/h2>
-&lt;!-- raw HTML omitted -->
-&lt;hr>
-&lt;h2 id="vimeo-simple-shortcode">Vimeo Simple Shortcode &lt;a href="#vimeo-simple-shortcode" class="hash">#&lt;/a>&lt;/h2></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_09nature/</guid><pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate></item><item><title>코드 아라카르트 II</title><link>https://codemealkit.github.io/posts/program_09carte2/</link><description>&lt;h3 id="신청하기">신청하기 &lt;a href="#%ec%8b%a0%ec%b2%ad%ed%95%98%ea%b8%b0" class="hash">#&lt;/a>&lt;/h3>
+곧 업로드될 예정입니다.&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_10tasting/</guid><pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate></item><item><title>바이너리의 틈</title><link>https://codemealkit.github.io/posts/brew_09binary/</link><description>&lt;p>코드 브루(Code Brew)는 코드 밀 키트에서 대화를 시작하는 역할을 합니다.
+마치 차를 우려내듯, 10분 정도의 짧은 시간 동안 코드를 음미해보는 시간입니다.
+실제 워크숍 현장에서는 코드 브루가 다루는 각 주제에 맞춰 티마스터가 제안하는 차를 함께 즐기게 됩니다.
+주제별로 제작된 총 9개의 티는 추후 만들어질 키트에서 티백으로 담길 예정입니다.&lt;/p>
+&lt;h4 id="between-the-binary">Between the binary &lt;a href="#between-the-binary" class="hash">#&lt;/a>&lt;/h4>
+&lt;pre>&lt;code>0과 1로 구성된 세계,
+0과 1의 논리 구조,
+샘플링과 양자화, 디지털화(digitization)과정에서
+필연적으로 발생하는 '누락'을 추적한다
+0과 1 사이의 틈을 비집고,
+추정과 생략이 반영되는
+이분법에 전제된 한계와
+그를 메꾸기 위한 노력과 효율에 대한 단상을 나눈다
+&lt;/code>&lt;/pre>
+&lt;h3 id="진행">진행 &lt;a href="#%ec%a7%84%ed%96%89" class="hash">#&lt;/a>&lt;/h3>
+&lt;p>전유진&lt;/p>
+&lt;h3 id="테이스트-키워드">테이스트 키워드 &lt;a href="#%ed%85%8c%ec%9d%b4%ec%8a%a4%ed%8a%b8-%ed%82%a4%ec%9b%8c%eb%93%9c" class="hash">#&lt;/a>&lt;/h3>
+&lt;p>운명적 만남, 이진법, 두가지 맛, 0과1사이, 아날로그와 디지털&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_09binary/</guid><pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate></item><item><title>코드 아라카르트 II</title><link>https://codemealkit.github.io/posts/program_09carte2/</link><description>&lt;h3 id="신청하기">신청하기 &lt;a href="#%ec%8b%a0%ec%b2%ad%ed%95%98%ea%b8%b0" class="hash">#&lt;/a>&lt;/h3>
 &lt;ol>
 &lt;li>신청링크는 매 모임 2주 전에 열립니다.&lt;/li>
 &lt;li>원활한 워크숍 진행을 위하여 참여 인원을 10명으로 제한합니다.&lt;/li>
@@ -56,16 +62,18 @@ alt="흰 접시에 초록색 잎과 함께 음식이 담겨있다. " height="400
 &lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
 &lt;h4 id="읽기자료">읽기자료 &lt;a href="#%ec%9d%bd%ea%b8%b0%ec%9e%90%eb%a3%8c" class="hash">#&lt;/a>&lt;/h4>
 &lt;p>Coming Soon!
-곧 업로드될 예정입니다.&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_09carte2/</guid><pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate></item><item><title>연산의 순서</title><link>https://codemealkit.github.io/posts/brew_08order/</link><description>&lt;p>Emoji can be enabled in a Hugo project in a number of ways.&lt;/p>
-&lt;p>The &lt;a href="https://gohugo.io/functions/emojify/">&lt;code>emojify&lt;/code>&lt;/a> function can be called directly in templates or &lt;a href="https://gohugo.io/templates/shortcode-templates/#inline-shortcodes">Inline Shortcodes&lt;/a>.&lt;/p>
-&lt;p>To enable emoji globally, set &lt;code>enableEmoji&lt;/code> to &lt;code>true&lt;/code> in your site&amp;rsquo;s &lt;a href="https://gohugo.io/getting-started/configuration/">configuration&lt;/a> and then you can type emoji shorthand codes directly in content files; e.g.&lt;/p>
-&lt;!-- raw HTML omitted -->
-&lt;p>The &lt;a href="http://www.emoji-cheat-sheet.com/">Emoji cheat sheet&lt;/a> is a useful reference for emoji shorthand codes.&lt;/p>
-&lt;hr>
-&lt;p>&lt;strong>N.B.&lt;/strong> The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-html" data-lang="html">.emoji {
-font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-}&lt;/code>&lt;/pre>&lt;/div></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_08order/</guid><pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate></item><item><title>코드 아라카르트 I</title><link>https://codemealkit.github.io/posts/program_08carte1/</link><description>&lt;h3 id="신청하기">신청하기 &lt;a href="#%ec%8b%a0%ec%b2%ad%ed%95%98%ea%b8%b0" class="hash">#&lt;/a>&lt;/h3>
+곧 업로드될 예정입니다.&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_09carte2/</guid><pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate></item><item><title>연산의 순서</title><link>https://codemealkit.github.io/posts/brew_08order/</link><description>&lt;p>코드 브루(Code Brew)는 코드 밀 키트에서 대화를 시작하는 역할을 합니다.
+마치 차를 우려내듯, 10분 정도의 짧은 시간 동안 코드를 음미해보는 시간입니다.
+실제 워크숍 현장에서는 코드 브루가 다루는 각 주제에 맞춰 티마스터가 제안하는 차를 함께 즐기게 됩니다.
+주제별로 제작된 총 9개의 티는 추후 만들어질 키트에서 티백으로 담길 예정입니다.&lt;/p>
+&lt;h4 id="recursive-hello-world">Recursive Hello, World &lt;a href="#recursive-hello-world" class="hash">#&lt;/a>&lt;/h4>
+&lt;pre>&lt;code>우리 모두 합의했다고 생각했던 상식적인 규칙이 깨진다면?
+항상 일정하지 않은 연산의 순서
+&lt;/code>&lt;/pre>
+&lt;h3 id="진행">진행 &lt;a href="#%ec%a7%84%ed%96%89" class="hash">#&lt;/a>&lt;/h3>
+&lt;p>김승범&lt;/p>
+&lt;h3 id="테이스트-키워드">테이스트 키워드 &lt;a href="#%ed%85%8c%ec%9d%b4%ec%8a%a4%ed%8a%b8-%ed%82%a4%ec%9b%8c%eb%93%9c" class="hash">#&lt;/a>&lt;/h3>
+&lt;p>어색함, 이상한, 변칙적으로 보이는, 의심, 상식과 다른, 유별난&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_08order/</guid><pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate></item><item><title>코드 아라카르트 I</title><link>https://codemealkit.github.io/posts/program_08carte1/</link><description>&lt;h3 id="신청하기">신청하기 &lt;a href="#%ec%8b%a0%ec%b2%ad%ed%95%98%ea%b8%b0" class="hash">#&lt;/a>&lt;/h3>
 &lt;ol>
 &lt;li>신청링크는 매 모임 2주 전에 열립니다.&lt;/li>
 &lt;li>원활한 워크숍 진행을 위하여 참여 인원을 10명으로 제한합니다.&lt;/li>
@@ -87,29 +95,20 @@ alt="흰 접시에 음식이 놓여있다." height="400vw"/>&lt;figcaption>
 &lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
 &lt;h4 id="읽기자료">읽기자료 &lt;a href="#%ec%9d%bd%ea%b8%b0%ec%9e%90%eb%a3%8c" class="hash">#&lt;/a>&lt;/h4>
 &lt;p>Coming Soon!
-곧 업로드될 예정입니다.&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_08carte1/</guid><pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate></item><item><title>재귀적 Hello, World</title><link>https://codemealkit.github.io/posts/brew_07helloworld/</link><description>&lt;p>Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p>
-&lt;p>Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p>
-&lt;ol>
-&lt;li>Exierant elisi ambit vivere dedere&lt;/li>
-&lt;li>Duce pollice&lt;/li>
-&lt;li>Eris modo&lt;/li>
-&lt;li>Spargitque ferrea quos palude&lt;/li>
-&lt;/ol>
-&lt;p>Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.&lt;/p>
-&lt;ol>
-&lt;li>Comas hunc haec pietate fetum procerum dixit&lt;/li>
-&lt;li>Post torum vates letum Tiresia&lt;/li>
-&lt;li>Flumen querellas&lt;/li>
-&lt;li>Arcanaque montibus omnes&lt;/li>
-&lt;li>Quidem et&lt;/li>
-&lt;/ol>
-&lt;h1 id="vagus-elidunt">Vagus elidunt &lt;a href="#vagus-elidunt" class="hash">#&lt;/a>&lt;/h1>
-&lt;p>&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;/p>
-&lt;p>&lt;a href="https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon">The Van de Graaf Canon&lt;/a>&lt;/p>
-&lt;h2 id="mane-refeci-capiebant-unda-mulcebat">Mane refeci capiebant unda mulcebat &lt;a href="#mane-refeci-capiebant-unda-mulcebat" class="hash">#&lt;/a>&lt;/h2>
-&lt;p>Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. &lt;strong>Faces illo pepulere&lt;/strong> tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.&lt;/p>
-&lt;p>Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae vulnus haerentia iuste et exercebat, sui et.&lt;/p>
-&lt;p>Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel &lt;strong>mitis temploque&lt;/strong> vocatus, inque alis, &lt;em>oculos nomen&lt;/em> non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides &lt;strong>parte&lt;/strong>.&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_07helloworld/</guid><pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate></item><item><title>소화불량에 대처하기</title><link>https://codemealkit.github.io/posts/program_07digestion/</link><description>&lt;h3 id="신청하기">신청하기 &lt;a href="#%ec%8b%a0%ec%b2%ad%ed%95%98%ea%b8%b0" class="hash">#&lt;/a>&lt;/h3>
+곧 업로드될 예정입니다.&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_08carte1/</guid><pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate></item><item><title>재귀적 Hello, World</title><link>https://codemealkit.github.io/posts/brew_07helloworld/</link><description>&lt;p>코드 브루(Code Brew)는 코드 밀 키트에서 대화를 시작하는 역할을 합니다.
+마치 차를 우려내듯, 10분 정도의 짧은 시간 동안 코드를 음미해보는 시간입니다.
+실제 워크숍 현장에서는 코드 브루가 다루는 각 주제에 맞춰 티마스터가 제안하는 차를 함께 즐기게 됩니다.
+주제별로 제작된 총 9개의 티는 추후 만들어질 키트에서 티백으로 담길 예정입니다.&lt;/p>
+&lt;h4 id="recursive-hello-world">Recursive Hello, World &lt;a href="#recursive-hello-world" class="hash">#&lt;/a>&lt;/h4>
+&lt;pre>&lt;code>반복을 만드는 여러 방법 중 하나
+스스로를 되부르기
+안으로 안으로 들어가듯 반복하는
+재귀의 감각 느끼기
+&lt;/code>&lt;/pre>
+&lt;h3 id="진행">진행 &lt;a href="#%ec%a7%84%ed%96%89" class="hash">#&lt;/a>&lt;/h3>
+&lt;p>김승범&lt;/p>
+&lt;h3 id="테이스트-키워드">테이스트 키워드 &lt;a href="#%ed%85%8c%ec%9d%b4%ec%8a%a4%ed%8a%b8-%ed%82%a4%ec%9b%8c%eb%93%9c" class="hash">#&lt;/a>&lt;/h3>
+&lt;p>재귀, 계속 반복하는, 자기 자신을 되부르는, 끝이 없는, 무한의&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_07helloworld/</guid><pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate></item><item><title>소화불량에 대처하기</title><link>https://codemealkit.github.io/posts/program_07digestion/</link><description>&lt;h3 id="신청하기">신청하기 &lt;a href="#%ec%8b%a0%ec%b2%ad%ed%95%98%ea%b8%b0" class="hash">#&lt;/a>&lt;/h3>
 &lt;ol>
 &lt;li>신청링크는 매 모임 2주 전에 열립니다.&lt;/li>
 &lt;li>원활한 워크숍 진행을 위하여 참여 인원을 10명으로 제한합니다.&lt;/li>
@@ -134,18 +133,19 @@ alt="갈색 접시에 풀색의 타원형 음식 조각이 놓여있다" height=
 &lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />
 &lt;h4 id="읽기자료">읽기자료 &lt;a href="#%ec%9d%bd%ea%b8%b0%ec%9e%90%eb%a3%8c" class="hash">#&lt;/a>&lt;/h4>
 &lt;p>Coming Soon!
-곧 업로드될 예정입니다.&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_07digestion/</guid><pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate></item><item><title>바빌로니아 법</title><link>https://codemealkit.github.io/posts/brew_06babylonia/</link><description>&lt;p>Hugo ships with several &lt;a href="https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes">Built-in Shortcodes&lt;/a> for rich content, along with a &lt;a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config&lt;/a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p>
-&lt;hr>
-&lt;h2 id="instagram-simple-shortcode">Instagram Simple Shortcode &lt;a href="#instagram-simple-shortcode" class="hash">#&lt;/a>&lt;/h2>
-&lt;!-- raw HTML omitted -->
-&lt;hr>
-&lt;h2 id="youtube-privacy-enhanced-shortcode">YouTube Privacy Enhanced Shortcode &lt;a href="#youtube-privacy-enhanced-shortcode" class="hash">#&lt;/a>&lt;/h2>
-&lt;!-- raw HTML omitted -->
-&lt;hr>
-&lt;h2 id="twitter-simple-shortcode">Twitter Simple Shortcode &lt;a href="#twitter-simple-shortcode" class="hash">#&lt;/a>&lt;/h2>
-&lt;!-- raw HTML omitted -->
-&lt;hr>
-&lt;h2 id="vimeo-simple-shortcode">Vimeo Simple Shortcode &lt;a href="#vimeo-simple-shortcode" class="hash">#&lt;/a>&lt;/h2></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_06babylonia/</guid><pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate></item><item><title>함부르크 함박 햄버그</title><link>https://codemealkit.github.io/posts/program_06hamburg/</link><description>&lt;h3 id="신청하기">신청하기 &lt;a href="#%ec%8b%a0%ec%b2%ad%ed%95%98%ea%b8%b0" class="hash">#&lt;/a>&lt;/h3>
+곧 업로드될 예정입니다.&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_07digestion/</guid><pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate></item><item><title>바빌로니아 법</title><link>https://codemealkit.github.io/posts/brew_06babylonia/</link><description>&lt;p>코드 브루(Code Brew)는 코드 밀 키트에서 대화를 시작하는 역할을 합니다.
+마치 차를 우려내듯, 10분 정도의 짧은 시간 동안 코드를 음미해보는 시간입니다.
+실제 워크숍 현장에서는 코드 브루가 다루는 각 주제에 맞춰 티마스터가 제안하는 차를 함께 즐기게 됩니다.
+주제별로 제작된 총 9개의 티는 추후 만들어질 키트에서 티백으로 담길 예정입니다.&lt;/p>
+&lt;h4 id="babylonian-law">Babylonian Law &lt;a href="#babylonian-law" class="hash">#&lt;/a>&lt;/h4>
+&lt;pre>&lt;code>기술의 기원으로 돌아가기
+가장 단순하지만 가장 불편한
+반복적인 연산의 수행
+&lt;/code>&lt;/pre>
+&lt;h3 id="진행">진행 &lt;a href="#%ec%a7%84%ed%96%89" class="hash">#&lt;/a>&lt;/h3>
+&lt;p>정앎&lt;/p>
+&lt;h3 id="테이스트-키워드">테이스트 키워드 &lt;a href="#%ed%85%8c%ec%9d%b4%ec%8a%a4%ed%8a%b8-%ed%82%a4%ec%9b%8c%eb%93%9c" class="hash">#&lt;/a>&lt;/h3>
+&lt;p>earthy, mineral&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_06babylonia/</guid><pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate></item><item><title>함부르크 함박 햄버그</title><link>https://codemealkit.github.io/posts/program_06hamburg/</link><description>&lt;h3 id="신청하기">신청하기 &lt;a href="#%ec%8b%a0%ec%b2%ad%ed%95%98%ea%b8%b0" class="hash">#&lt;/a>&lt;/h3>
 &lt;ol>
 &lt;li>신청링크는 매 모임 2주 전에 열립니다.&lt;/li>
 &lt;li>원활한 워크숍 진행을 위하여 참여 인원을 10명으로 제한합니다.&lt;/li>
@@ -167,146 +167,20 @@ alt="중앙에 햄버거가 배치된 레트로풍 포스터" height="400vw"/>&l
 &lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
 &lt;h4 id="읽기자료">읽기자료 &lt;a href="#%ec%9d%bd%ea%b8%b0%ec%9e%90%eb%a3%8c" class="hash">#&lt;/a>&lt;/h4>
 &lt;p>Coming Soon!
-곧 업로드될 예정입니다.&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_06hamburg/</guid><pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate></item><item><title>스테가노그래피</title><link>https://codemealkit.github.io/posts/brew_05steganography/</link><description>&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p>
-&lt;h2 id="headings">Headings &lt;a href="#headings" class="hash">#&lt;/a>&lt;/h2>
-&lt;p>The following HTML &lt;code>&amp;lt;h1&amp;gt;&lt;/code>—&lt;code>&amp;lt;h6&amp;gt;&lt;/code> elements represent six levels of section headings. &lt;code>&amp;lt;h1&amp;gt;&lt;/code> is the highest section level while &lt;code>&amp;lt;h6&amp;gt;&lt;/code> is the lowest.&lt;/p>
-&lt;h1 id="h1">H1 &lt;a href="#h1" class="hash">#&lt;/a>&lt;/h1>
-&lt;h2 id="h2">H2 &lt;a href="#h2" class="hash">#&lt;/a>&lt;/h2>
-&lt;h3 id="h3">H3 &lt;a href="#h3" class="hash">#&lt;/a>&lt;/h3>
-&lt;h4 id="h4">H4 &lt;a href="#h4" class="hash">#&lt;/a>&lt;/h4>
-&lt;h5 id="h5">H5 &lt;a href="#h5" class="hash">#&lt;/a>&lt;/h5>
-&lt;h6 id="h6">H6 &lt;a href="#h6" class="hash">#&lt;/a>&lt;/h6>
-&lt;h2 id="paragraph">Paragraph &lt;a href="#paragraph" class="hash">#&lt;/a>&lt;/h2>
-&lt;p>Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.&lt;/p>
-&lt;p>Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.&lt;/p>
-&lt;h2 id="blockquotes">Blockquotes &lt;a href="#blockquotes" class="hash">#&lt;/a>&lt;/h2>
-&lt;p>The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a &lt;code>footer&lt;/code> or &lt;code>cite&lt;/code> element, and optionally with in-line changes such as annotations and abbreviations.&lt;/p>
-&lt;h4 id="blockquote-without-attribution">Blockquote without attribution &lt;a href="#blockquote-without-attribution" class="hash">#&lt;/a>&lt;/h4>
-&lt;blockquote>
-&lt;p>Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-&lt;strong>Note&lt;/strong> that you can use &lt;em>Markdown syntax&lt;/em> within a blockquote.&lt;/p>
-&lt;/blockquote>
-&lt;h4 id="blockquote-with-attribution">Blockquote with attribution &lt;a href="#blockquote-with-attribution" class="hash">#&lt;/a>&lt;/h4>
-&lt;blockquote>
-&lt;p>Don&amp;rsquo;t communicate by sharing memory, share memory by communicating.&lt;!-- raw HTML omitted -->
-— &lt;!-- raw HTML omitted -->Rob Pike&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->&lt;/p>
-&lt;/blockquote>
-&lt;h2 id="tables">Tables &lt;a href="#tables" class="hash">#&lt;/a>&lt;/h2>
-&lt;p>Tables aren&amp;rsquo;t part of the core Markdown spec, but Hugo supports supports them out-of-the-box.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Name&lt;/th>
-&lt;th>Age&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Bob&lt;/td>
-&lt;td>27&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Alice&lt;/td>
-&lt;td>23&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h4 id="inline-markdown-within-tables">Inline Markdown within tables &lt;a href="#inline-markdown-within-tables" class="hash">#&lt;/a>&lt;/h4>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Italics&lt;/th>
-&lt;th>Bold&lt;/th>
-&lt;th>Code&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>&lt;em>italics&lt;/em>&lt;/td>
-&lt;td>&lt;strong>bold&lt;/strong>&lt;/td>
-&lt;td>&lt;code>code&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h2 id="code-blocks">Code Blocks &lt;a href="#code-blocks" class="hash">#&lt;/a>&lt;/h2>
-&lt;h4 id="code-block-with-backticks">Code block with backticks &lt;a href="#code-block-with-backticks" class="hash">#&lt;/a>&lt;/h4>
-&lt;pre>&lt;code class="language-html">&amp;lt;!doctype html&amp;gt;
-&amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt;
-&amp;lt;head&amp;gt;
-&amp;lt;meta charset=&amp;quot;utf-8&amp;quot;&amp;gt;
-&amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;/title&amp;gt;
-&amp;lt;/head&amp;gt;
-&amp;lt;body&amp;gt;
-&amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt;
-&amp;lt;/body&amp;gt;
-&amp;lt;/html&amp;gt;
+곧 업로드될 예정입니다.&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_06hamburg/</guid><pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate></item><item><title>스테가노그래피</title><link>https://codemealkit.github.io/posts/brew_05steganography/</link><description>&lt;p>코드 브루(Code Brew)는 코드 밀 키트에서 대화를 시작하는 역할을 합니다.
+마치 차를 우려내듯, 10분 정도의 짧은 시간 동안 코드를 음미해보는 시간입니다.
+실제 워크숍 현장에서는 코드 브루가 다루는 각 주제에 맞춰 티마스터가 제안하는 차를 함께 즐기게 됩니다.
+주제별로 제작된 총 9개의 티는 추후 만들어질 키트에서 티백으로 담길 예정입니다.&lt;/p>
+&lt;h4 id="steganography">Steganography &lt;a href="#steganography" class="hash">#&lt;/a>&lt;/h4>
+&lt;pre>&lt;code>덮어지거나 감추어진 커뮤니케이션
+암호화, '비밀'이어야하는 메시지, 전달되어야만 하는 비밀
+프랜시스 베이컨의 cipher와 baugdot code
+데어터 위장술, 닫힌 정보
 &lt;/code>&lt;/pre>
-&lt;h4 id="code-block-indented-with-four-spaces">Code block indented with four spaces &lt;a href="#code-block-indented-with-four-spaces" class="hash">#&lt;/a>&lt;/h4>
-&lt;pre>&lt;code>&amp;lt;!doctype html&amp;gt;
-&amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt;
-&amp;lt;head&amp;gt;
-&amp;lt;meta charset=&amp;quot;utf-8&amp;quot;&amp;gt;
-&amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;/title&amp;gt;
-&amp;lt;/head&amp;gt;
-&amp;lt;body&amp;gt;
-&amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt;
-&amp;lt;/body&amp;gt;
-&amp;lt;/html&amp;gt;
-&lt;/code>&lt;/pre>
-&lt;h4 id="code-block-with-hugos-internal-highlight-shortcode">Code block with Hugo&amp;rsquo;s internal highlight shortcode &lt;a href="#code-block-with-hugos-internal-highlight-shortcode" class="hash">#&lt;/a>&lt;/h4>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-html" data-lang="html">&lt;span style="color:#75715e">&amp;lt;!doctype html&amp;gt;&lt;/span>
-&amp;lt;&lt;span style="color:#f92672">html&lt;/span> &lt;span style="color:#a6e22e">lang&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;en&amp;#34;&lt;/span>&amp;gt;
-&amp;lt;&lt;span style="color:#f92672">head&lt;/span>&amp;gt;
-&amp;lt;&lt;span style="color:#f92672">meta&lt;/span> &lt;span style="color:#a6e22e">charset&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;utf-8&amp;#34;&lt;/span>&amp;gt;
-&amp;lt;&lt;span style="color:#f92672">title&lt;/span>&amp;gt;Example HTML5 Document&amp;lt;/&lt;span style="color:#f92672">title&lt;/span>&amp;gt;
-&amp;lt;/&lt;span style="color:#f92672">head&lt;/span>&amp;gt;
-&amp;lt;&lt;span style="color:#f92672">body&lt;/span>&amp;gt;
-&amp;lt;&lt;span style="color:#f92672">p&lt;/span>&amp;gt;Test&amp;lt;/&lt;span style="color:#f92672">p&lt;/span>&amp;gt;
-&amp;lt;/&lt;span style="color:#f92672">body&lt;/span>&amp;gt;
-&amp;lt;/&lt;span style="color:#f92672">html&lt;/span>&amp;gt;&lt;/code>&lt;/pre>&lt;/div>
-&lt;h2 id="list-types">List Types &lt;a href="#list-types" class="hash">#&lt;/a>&lt;/h2>
-&lt;h4 id="ordered-list">Ordered List &lt;a href="#ordered-list" class="hash">#&lt;/a>&lt;/h4>
-&lt;ol>
-&lt;li>First item&lt;/li>
-&lt;li>Second item&lt;/li>
-&lt;li>Third item&lt;/li>
-&lt;/ol>
-&lt;h4 id="unordered-list">Unordered List &lt;a href="#unordered-list" class="hash">#&lt;/a>&lt;/h4>
-&lt;ul>
-&lt;li>List item&lt;/li>
-&lt;li>Another item&lt;/li>
-&lt;li>And another item&lt;/li>
-&lt;/ul>
-&lt;h4 id="nested-list">Nested list &lt;a href="#nested-list" class="hash">#&lt;/a>&lt;/h4>
-&lt;ul>
-&lt;li>Fruit
-&lt;ul>
-&lt;li>Apple&lt;/li>
-&lt;li>Orange&lt;/li>
-&lt;li>Banana&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Dairy
-&lt;ul>
-&lt;li>Milk&lt;/li>
-&lt;li>Cheese&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="other-elements--abbr-sub-sup-kbd-mark">Other Elements — abbr, sub, sup, kbd, mark &lt;a href="#other-elements--abbr-sub-sup-kbd-mark" class="hash">#&lt;/a>&lt;/h2>
-&lt;p>&lt;!-- raw HTML omitted -->GIF&lt;!-- raw HTML omitted --> is a bitmap image format.&lt;/p>
-&lt;p>H&lt;!-- raw HTML omitted -->2&lt;!-- raw HTML omitted -->O&lt;/p>
-&lt;p>X&lt;!-- raw HTML omitted -->n&lt;!-- raw HTML omitted --> + Y&lt;!-- raw HTML omitted -->n&lt;!-- raw HTML omitted --> = Z&lt;!-- raw HTML omitted -->n&lt;!-- raw HTML omitted -->&lt;/p>
-&lt;p>Press &lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->CTRL&lt;!-- raw HTML omitted -->+&lt;!-- raw HTML omitted -->ALT&lt;!-- raw HTML omitted -->+&lt;!-- raw HTML omitted -->Delete&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted --> to end the session.&lt;/p>
-&lt;p>Most &lt;!-- raw HTML omitted -->salamanders&lt;!-- raw HTML omitted --> are nocturnal, and hunt for insects, worms, and other small creatures.&lt;/p>
-&lt;section class="footnotes" role="doc-endnotes">
-&lt;hr>
-&lt;ol>
-&lt;li id="fn:1" role="doc-endnote">
-&lt;p>The above quote is excerpted from Rob Pike&amp;rsquo;s &lt;a href="https://www.youtube.com/watch?v=PAAkCSZUG1c">talk&lt;/a> during Gopherfest, November 18, 2015.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ol>
-&lt;/section></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_05steganography/</guid><pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate></item><item><title>엎질러진 소스</title><link>https://codemealkit.github.io/posts/program_05source/</link><description>&lt;h3 id="신청하기">신청하기 &lt;a href="#%ec%8b%a0%ec%b2%ad%ed%95%98%ea%b8%b0" class="hash">#&lt;/a>&lt;/h3>
+&lt;h3 id="진행">진행 &lt;a href="#%ec%a7%84%ed%96%89" class="hash">#&lt;/a>&lt;/h3>
+&lt;p>전유진&lt;/p>
+&lt;h3 id="테이스트-키워드">테이스트 키워드 &lt;a href="#%ed%85%8c%ec%9d%b4%ec%8a%a4%ed%8a%b8-%ed%82%a4%ec%9b%8c%eb%93%9c" class="hash">#&lt;/a>&lt;/h3>
+&lt;p>비밀, 은닉, 위장, 통신, 가면&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_05steganography/</guid><pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate></item><item><title>엎질러진 소스</title><link>https://codemealkit.github.io/posts/program_05source/</link><description>&lt;h3 id="신청하기">신청하기 &lt;a href="#%ec%8b%a0%ec%b2%ad%ed%95%98%ea%b8%b0" class="hash">#&lt;/a>&lt;/h3>
 &lt;ol>
 &lt;li>신청링크는 매 모임 2주 전에 열립니다.&lt;/li>
 &lt;li>원활한 워크숍 진행을 위하여 참여 인원을 10명으로 제한합니다.&lt;/li>
@@ -328,146 +202,19 @@ alt="둥근 접시에 묽은 음식이 가득차있다" height="400vw"/>&lt;figc
 &lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p>
 &lt;h4 id="읽기자료">읽기자료 &lt;a href="#%ec%9d%bd%ea%b8%b0%ec%9e%90%eb%a3%8c" class="hash">#&lt;/a>&lt;/h4>
 &lt;p>Coming Soon!
-곧 업로드될 예정입니다.&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_05source/</guid><pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate></item><item><title>Rule 30 CA (30번째 룰)</title><link>https://codemealkit.github.io/posts/brew_04rule30/</link><description>&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p>
-&lt;h2 id="headings">Headings &lt;a href="#headings" class="hash">#&lt;/a>&lt;/h2>
-&lt;p>The following HTML &lt;code>&amp;lt;h1&amp;gt;&lt;/code>—&lt;code>&amp;lt;h6&amp;gt;&lt;/code> elements represent six levels of section headings. &lt;code>&amp;lt;h1&amp;gt;&lt;/code> is the highest section level while &lt;code>&amp;lt;h6&amp;gt;&lt;/code> is the lowest.&lt;/p>
-&lt;h1 id="h1">H1 &lt;a href="#h1" class="hash">#&lt;/a>&lt;/h1>
-&lt;h2 id="h2">H2 &lt;a href="#h2" class="hash">#&lt;/a>&lt;/h2>
-&lt;h3 id="h3">H3 &lt;a href="#h3" class="hash">#&lt;/a>&lt;/h3>
-&lt;h4 id="h4">H4 &lt;a href="#h4" class="hash">#&lt;/a>&lt;/h4>
-&lt;h5 id="h5">H5 &lt;a href="#h5" class="hash">#&lt;/a>&lt;/h5>
-&lt;h6 id="h6">H6 &lt;a href="#h6" class="hash">#&lt;/a>&lt;/h6>
-&lt;h2 id="paragraph">Paragraph &lt;a href="#paragraph" class="hash">#&lt;/a>&lt;/h2>
-&lt;p>Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.&lt;/p>
-&lt;p>Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.&lt;/p>
-&lt;h2 id="blockquotes">Blockquotes &lt;a href="#blockquotes" class="hash">#&lt;/a>&lt;/h2>
-&lt;p>The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a &lt;code>footer&lt;/code> or &lt;code>cite&lt;/code> element, and optionally with in-line changes such as annotations and abbreviations.&lt;/p>
-&lt;h4 id="blockquote-without-attribution">Blockquote without attribution &lt;a href="#blockquote-without-attribution" class="hash">#&lt;/a>&lt;/h4>
-&lt;blockquote>
-&lt;p>Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-&lt;strong>Note&lt;/strong> that you can use &lt;em>Markdown syntax&lt;/em> within a blockquote.&lt;/p>
-&lt;/blockquote>
-&lt;h4 id="blockquote-with-attribution">Blockquote with attribution &lt;a href="#blockquote-with-attribution" class="hash">#&lt;/a>&lt;/h4>
-&lt;blockquote>
-&lt;p>Don&amp;rsquo;t communicate by sharing memory, share memory by communicating.&lt;!-- raw HTML omitted -->
-— &lt;!-- raw HTML omitted -->Rob Pike&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->&lt;/p>
-&lt;/blockquote>
-&lt;h2 id="tables">Tables &lt;a href="#tables" class="hash">#&lt;/a>&lt;/h2>
-&lt;p>Tables aren&amp;rsquo;t part of the core Markdown spec, but Hugo supports supports them out-of-the-box.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Name&lt;/th>
-&lt;th>Age&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Bob&lt;/td>
-&lt;td>27&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Alice&lt;/td>
-&lt;td>23&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h4 id="inline-markdown-within-tables">Inline Markdown within tables &lt;a href="#inline-markdown-within-tables" class="hash">#&lt;/a>&lt;/h4>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Italics&lt;/th>
-&lt;th>Bold&lt;/th>
-&lt;th>Code&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>&lt;em>italics&lt;/em>&lt;/td>
-&lt;td>&lt;strong>bold&lt;/strong>&lt;/td>
-&lt;td>&lt;code>code&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h2 id="code-blocks">Code Blocks &lt;a href="#code-blocks" class="hash">#&lt;/a>&lt;/h2>
-&lt;h4 id="code-block-with-backticks">Code block with backticks &lt;a href="#code-block-with-backticks" class="hash">#&lt;/a>&lt;/h4>
-&lt;pre>&lt;code class="language-html">&amp;lt;!doctype html&amp;gt;
-&amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt;
-&amp;lt;head&amp;gt;
-&amp;lt;meta charset=&amp;quot;utf-8&amp;quot;&amp;gt;
-&amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;/title&amp;gt;
-&amp;lt;/head&amp;gt;
-&amp;lt;body&amp;gt;
-&amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt;
-&amp;lt;/body&amp;gt;
-&amp;lt;/html&amp;gt;
+곧 업로드될 예정입니다.&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_05source/</guid><pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate></item><item><title>Rule 30 CA (30번째 룰)</title><link>https://codemealkit.github.io/posts/brew_04rule30/</link><description>&lt;p>코드 브루(Code Brew)는 코드 밀 키트에서 대화를 시작하는 역할을 합니다.
+마치 차를 우려내듯, 10분 정도의 짧은 시간 동안 코드를 음미해보는 시간입니다.
+실제 워크숍 현장에서는 코드 브루가 다루는 각 주제에 맞춰 티마스터가 제안하는 차를 함께 즐기게 됩니다.
+주제별로 제작된 총 9개의 티는 추후 만들어질 키트에서 티백으로 담길 예정입니다.&lt;/p>
+&lt;h4 id="rule-30-ca">Rule 30 CA &lt;a href="#rule-30-ca" class="hash">#&lt;/a>&lt;/h4>
+&lt;pre>&lt;code>반복되는 패턴에서 어느 순간 발생하는 혼돈과 무작위성
+논리 연산으로 축적되는 과정을 따라가기
+패턴을 만드는 수행
 &lt;/code>&lt;/pre>
-&lt;h4 id="code-block-indented-with-four-spaces">Code block indented with four spaces &lt;a href="#code-block-indented-with-four-spaces" class="hash">#&lt;/a>&lt;/h4>
-&lt;pre>&lt;code>&amp;lt;!doctype html&amp;gt;
-&amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt;
-&amp;lt;head&amp;gt;
-&amp;lt;meta charset=&amp;quot;utf-8&amp;quot;&amp;gt;
-&amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;/title&amp;gt;
-&amp;lt;/head&amp;gt;
-&amp;lt;body&amp;gt;
-&amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt;
-&amp;lt;/body&amp;gt;
-&amp;lt;/html&amp;gt;
-&lt;/code>&lt;/pre>
-&lt;h4 id="code-block-with-hugos-internal-highlight-shortcode">Code block with Hugo&amp;rsquo;s internal highlight shortcode &lt;a href="#code-block-with-hugos-internal-highlight-shortcode" class="hash">#&lt;/a>&lt;/h4>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-html" data-lang="html">&lt;span style="color:#75715e">&amp;lt;!doctype html&amp;gt;&lt;/span>
-&amp;lt;&lt;span style="color:#f92672">html&lt;/span> &lt;span style="color:#a6e22e">lang&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;en&amp;#34;&lt;/span>&amp;gt;
-&amp;lt;&lt;span style="color:#f92672">head&lt;/span>&amp;gt;
-&amp;lt;&lt;span style="color:#f92672">meta&lt;/span> &lt;span style="color:#a6e22e">charset&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;utf-8&amp;#34;&lt;/span>&amp;gt;
-&amp;lt;&lt;span style="color:#f92672">title&lt;/span>&amp;gt;Example HTML5 Document&amp;lt;/&lt;span style="color:#f92672">title&lt;/span>&amp;gt;
-&amp;lt;/&lt;span style="color:#f92672">head&lt;/span>&amp;gt;
-&amp;lt;&lt;span style="color:#f92672">body&lt;/span>&amp;gt;
-&amp;lt;&lt;span style="color:#f92672">p&lt;/span>&amp;gt;Test&amp;lt;/&lt;span style="color:#f92672">p&lt;/span>&amp;gt;
-&amp;lt;/&lt;span style="color:#f92672">body&lt;/span>&amp;gt;
-&amp;lt;/&lt;span style="color:#f92672">html&lt;/span>&amp;gt;&lt;/code>&lt;/pre>&lt;/div>
-&lt;h2 id="list-types">List Types &lt;a href="#list-types" class="hash">#&lt;/a>&lt;/h2>
-&lt;h4 id="ordered-list">Ordered List &lt;a href="#ordered-list" class="hash">#&lt;/a>&lt;/h4>
-&lt;ol>
-&lt;li>First item&lt;/li>
-&lt;li>Second item&lt;/li>
-&lt;li>Third item&lt;/li>
-&lt;/ol>
-&lt;h4 id="unordered-list">Unordered List &lt;a href="#unordered-list" class="hash">#&lt;/a>&lt;/h4>
-&lt;ul>
-&lt;li>List item&lt;/li>
-&lt;li>Another item&lt;/li>
-&lt;li>And another item&lt;/li>
-&lt;/ul>
-&lt;h4 id="nested-list">Nested list &lt;a href="#nested-list" class="hash">#&lt;/a>&lt;/h4>
-&lt;ul>
-&lt;li>Fruit
-&lt;ul>
-&lt;li>Apple&lt;/li>
-&lt;li>Orange&lt;/li>
-&lt;li>Banana&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Dairy
-&lt;ul>
-&lt;li>Milk&lt;/li>
-&lt;li>Cheese&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="other-elements--abbr-sub-sup-kbd-mark">Other Elements — abbr, sub, sup, kbd, mark &lt;a href="#other-elements--abbr-sub-sup-kbd-mark" class="hash">#&lt;/a>&lt;/h2>
-&lt;p>&lt;!-- raw HTML omitted -->GIF&lt;!-- raw HTML omitted --> is a bitmap image format.&lt;/p>
-&lt;p>H&lt;!-- raw HTML omitted -->2&lt;!-- raw HTML omitted -->O&lt;/p>
-&lt;p>X&lt;!-- raw HTML omitted -->n&lt;!-- raw HTML omitted --> + Y&lt;!-- raw HTML omitted -->n&lt;!-- raw HTML omitted --> = Z&lt;!-- raw HTML omitted -->n&lt;!-- raw HTML omitted -->&lt;/p>
-&lt;p>Press &lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->CTRL&lt;!-- raw HTML omitted -->+&lt;!-- raw HTML omitted -->ALT&lt;!-- raw HTML omitted -->+&lt;!-- raw HTML omitted -->Delete&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted --> to end the session.&lt;/p>
-&lt;p>Most &lt;!-- raw HTML omitted -->salamanders&lt;!-- raw HTML omitted --> are nocturnal, and hunt for insects, worms, and other small creatures.&lt;/p>
-&lt;section class="footnotes" role="doc-endnotes">
-&lt;hr>
-&lt;ol>
-&lt;li id="fn:1" role="doc-endnote">
-&lt;p>The above quote is excerpted from Rob Pike&amp;rsquo;s &lt;a href="https://www.youtube.com/watch?v=PAAkCSZUG1c">talk&lt;/a> during Gopherfest, November 18, 2015.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ol>
-&lt;/section></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_04rule30/</guid><pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate></item><item><title>캡슐 머신 96-22 버라이어티팩</title><link>https://codemealkit.github.io/posts/program_04capsule/</link><description>&lt;h3 id="신청하기">신청하기 &lt;a href="#%ec%8b%a0%ec%b2%ad%ed%95%98%ea%b8%b0" class="hash">#&lt;/a>&lt;/h3>
+&lt;h3 id="진행">진행 &lt;a href="#%ec%a7%84%ed%96%89" class="hash">#&lt;/a>&lt;/h3>
+&lt;p>정앎&lt;/p>
+&lt;h3 id="테이스트-키워드">테이스트 키워드 &lt;a href="#%ed%85%8c%ec%9d%b4%ec%8a%a4%ed%8a%b8-%ed%82%a4%ec%9b%8c%eb%93%9c" class="hash">#&lt;/a>&lt;/h3>
+&lt;p>정돈에서 혼돈, 발산&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_04rule30/</guid><pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate></item><item><title>캡슐 머신 96-22 버라이어티팩</title><link>https://codemealkit.github.io/posts/program_04capsule/</link><description>&lt;h3 id="신청하기">신청하기 &lt;a href="#%ec%8b%a0%ec%b2%ad%ed%95%98%ea%b8%b0" class="hash">#&lt;/a>&lt;/h3>
 &lt;ol>
 &lt;li>신청링크는 매 모임 2주 전에 열립니다.&lt;/li>
 &lt;li>원활한 워크숍 진행을 위하여 참여 인원을 10명으로 제한합니다.&lt;/li>
@@ -518,168 +265,31 @@ alt="흰 접시 위에 갈색의 견과류로 추정되는 열매가 놓여있�
 &lt;p>Coming Soon!
 곧 업로드될 예정입니다.&lt;/p>
 &lt;p>&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />
-&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_03shell/</guid><pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate></item><item><title>코드 코멘트</title><link>https://codemealkit.github.io/posts/brew_03codecomment/</link><description>&lt;p>Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p>
-&lt;p>Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p>
-&lt;ol>
-&lt;li>Exierant elisi ambit vivere dedere&lt;/li>
-&lt;li>Duce pollice&lt;/li>
-&lt;li>Eris modo&lt;/li>
-&lt;li>Spargitque ferrea quos palude&lt;/li>
-&lt;/ol>
-&lt;p>Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.&lt;/p>
-&lt;ol>
-&lt;li>Comas hunc haec pietate fetum procerum dixit&lt;/li>
-&lt;li>Post torum vates letum Tiresia&lt;/li>
-&lt;li>Flumen querellas&lt;/li>
-&lt;li>Arcanaque montibus omnes&lt;/li>
-&lt;li>Quidem et&lt;/li>
-&lt;/ol>
-&lt;h1 id="vagus-elidunt">Vagus elidunt &lt;a href="#vagus-elidunt" class="hash">#&lt;/a>&lt;/h1>
-&lt;p>&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;/p>
-&lt;p>&lt;a href="https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon">The Van de Graaf Canon&lt;/a>&lt;/p>
-&lt;h2 id="mane-refeci-capiebant-unda-mulcebat">Mane refeci capiebant unda mulcebat &lt;a href="#mane-refeci-capiebant-unda-mulcebat" class="hash">#&lt;/a>&lt;/h2>
-&lt;p>Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. &lt;strong>Faces illo pepulere&lt;/strong> tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.&lt;/p>
-&lt;p>Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae vulnus haerentia iuste et exercebat, sui et.&lt;/p>
-&lt;p>Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel &lt;strong>mitis temploque&lt;/strong> vocatus, inque alis, &lt;em>oculos nomen&lt;/em> non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides &lt;strong>parte&lt;/strong>.&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_03codecomment/</guid><pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate></item><item><title>다각형과 원</title><link>https://codemealkit.github.io/posts/brew_02polygan/</link><description>&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p>
-&lt;h2 id="headings">Headings &lt;a href="#headings" class="hash">#&lt;/a>&lt;/h2>
-&lt;p>The following HTML &lt;code>&amp;lt;h1&amp;gt;&lt;/code>—&lt;code>&amp;lt;h6&amp;gt;&lt;/code> elements represent six levels of section headings. &lt;code>&amp;lt;h1&amp;gt;&lt;/code> is the highest section level while &lt;code>&amp;lt;h6&amp;gt;&lt;/code> is the lowest.&lt;/p>
-&lt;h1 id="h1">H1 &lt;a href="#h1" class="hash">#&lt;/a>&lt;/h1>
-&lt;h2 id="h2">H2 &lt;a href="#h2" class="hash">#&lt;/a>&lt;/h2>
-&lt;h3 id="h3">H3 &lt;a href="#h3" class="hash">#&lt;/a>&lt;/h3>
-&lt;h4 id="h4">H4 &lt;a href="#h4" class="hash">#&lt;/a>&lt;/h4>
-&lt;h5 id="h5">H5 &lt;a href="#h5" class="hash">#&lt;/a>&lt;/h5>
-&lt;h6 id="h6">H6 &lt;a href="#h6" class="hash">#&lt;/a>&lt;/h6>
-&lt;h2 id="paragraph">Paragraph &lt;a href="#paragraph" class="hash">#&lt;/a>&lt;/h2>
-&lt;p>Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.&lt;/p>
-&lt;p>Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.&lt;/p>
-&lt;h2 id="blockquotes">Blockquotes &lt;a href="#blockquotes" class="hash">#&lt;/a>&lt;/h2>
-&lt;p>The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a &lt;code>footer&lt;/code> or &lt;code>cite&lt;/code> element, and optionally with in-line changes such as annotations and abbreviations.&lt;/p>
-&lt;h4 id="blockquote-without-attribution">Blockquote without attribution &lt;a href="#blockquote-without-attribution" class="hash">#&lt;/a>&lt;/h4>
-&lt;blockquote>
-&lt;p>Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-&lt;strong>Note&lt;/strong> that you can use &lt;em>Markdown syntax&lt;/em> within a blockquote.&lt;/p>
-&lt;/blockquote>
-&lt;h4 id="blockquote-with-attribution">Blockquote with attribution &lt;a href="#blockquote-with-attribution" class="hash">#&lt;/a>&lt;/h4>
-&lt;blockquote>
-&lt;p>Don&amp;rsquo;t communicate by sharing memory, share memory by communicating.&lt;!-- raw HTML omitted -->
-— &lt;!-- raw HTML omitted -->Rob Pike&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->&lt;/p>
-&lt;/blockquote>
-&lt;h2 id="tables">Tables &lt;a href="#tables" class="hash">#&lt;/a>&lt;/h2>
-&lt;p>Tables aren&amp;rsquo;t part of the core Markdown spec, but Hugo supports supports them out-of-the-box.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Name&lt;/th>
-&lt;th>Age&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Bob&lt;/td>
-&lt;td>27&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Alice&lt;/td>
-&lt;td>23&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h4 id="inline-markdown-within-tables">Inline Markdown within tables &lt;a href="#inline-markdown-within-tables" class="hash">#&lt;/a>&lt;/h4>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Italics&lt;/th>
-&lt;th>Bold&lt;/th>
-&lt;th>Code&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>&lt;em>italics&lt;/em>&lt;/td>
-&lt;td>&lt;strong>bold&lt;/strong>&lt;/td>
-&lt;td>&lt;code>code&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h2 id="code-blocks">Code Blocks &lt;a href="#code-blocks" class="hash">#&lt;/a>&lt;/h2>
-&lt;h4 id="code-block-with-backticks">Code block with backticks &lt;a href="#code-block-with-backticks" class="hash">#&lt;/a>&lt;/h4>
-&lt;pre>&lt;code class="language-html">&amp;lt;!doctype html&amp;gt;
-&amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt;
-&amp;lt;head&amp;gt;
-&amp;lt;meta charset=&amp;quot;utf-8&amp;quot;&amp;gt;
-&amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;/title&amp;gt;
-&amp;lt;/head&amp;gt;
-&amp;lt;body&amp;gt;
-&amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt;
-&amp;lt;/body&amp;gt;
-&amp;lt;/html&amp;gt;
+&lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_03shell/</guid><pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate></item><item><title>코드 코멘트</title><link>https://codemealkit.github.io/posts/brew_03codecomment/</link><description>&lt;p>코드 브루(Code Brew)는 코드 밀 키트에서 대화를 시작하는 역할을 합니다.
+마치 차를 우려내듯, 10분 정도의 짧은 시간 동안 코드를 음미해보는 시간입니다.
+실제 워크숍 현장에서는 코드 브루가 다루는 각 주제에 맞춰 티마스터가 제안하는 차를 함께 즐기게 됩니다.
+주제별로 제작된 총 9개의 티는 추후 만들어질 키트에서 티백으로 담길 예정입니다.&lt;/p>
+&lt;h4 id="code-comment">Code Comment &lt;a href="#code-comment" class="hash">#&lt;/a>&lt;/h4>
+&lt;pre>&lt;code>전설의 웃픈 코드 코멘트 모음
+기계는 읽지 않는, 사람을 위해 남긴 노트
+코드라는 활동을 하는 주체로서의 인간, 인간미를 느껴보자
 &lt;/code>&lt;/pre>
-&lt;h4 id="code-block-indented-with-four-spaces">Code block indented with four spaces &lt;a href="#code-block-indented-with-four-spaces" class="hash">#&lt;/a>&lt;/h4>
-&lt;pre>&lt;code>&amp;lt;!doctype html&amp;gt;
-&amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt;
-&amp;lt;head&amp;gt;
-&amp;lt;meta charset=&amp;quot;utf-8&amp;quot;&amp;gt;
-&amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;/title&amp;gt;
-&amp;lt;/head&amp;gt;
-&amp;lt;body&amp;gt;
-&amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt;
-&amp;lt;/body&amp;gt;
-&amp;lt;/html&amp;gt;
+&lt;h3 id="진행">진행 &lt;a href="#%ec%a7%84%ed%96%89" class="hash">#&lt;/a>&lt;/h3>
+&lt;p>정앎&lt;/p>
+&lt;h3 id="테이스트-키워드">테이스트 키워드 &lt;a href="#%ed%85%8c%ec%9d%b4%ec%8a%a4%ed%8a%b8-%ed%82%a4%ec%9b%8c%eb%93%9c" class="hash">#&lt;/a>&lt;/h3>
+&lt;p>산뜻하지만 짠맛나는&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_03codecomment/</guid><pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate></item><item><title>다각형과 원</title><link>https://codemealkit.github.io/posts/brew_02polygan/</link><description>&lt;p>코드 브루(Code Brew)는 코드 밀 키트에서 대화를 시작하는 역할을 합니다.
+마치 차를 우려내듯, 10분 정도의 짧은 시간 동안 코드를 음미해보는 시간입니다.
+실제 워크숍 현장에서는 코드 브루가 다루는 각 주제에 맞춰 티마스터가 제안하는 차를 함께 즐기게 됩니다.
+주제별로 제작된 총 9개의 티는 추후 만들어질 키트에서 티백으로 담길 예정입니다.&lt;/p>
+&lt;h4 id="polygon-and-circle">Polygon and circle &lt;a href="#polygon-and-circle" class="hash">#&lt;/a>&lt;/h4>
+&lt;pre>&lt;code>다른 (혹은 다르다고 여겨지던) 개념들이
+동일한 구조로 이뤄짐에 대해,
+그리고 그 구조를 몸으로 움직이며 천천히 느껴보기
 &lt;/code>&lt;/pre>
-&lt;h4 id="code-block-with-hugos-internal-highlight-shortcode">Code block with Hugo&amp;rsquo;s internal highlight shortcode &lt;a href="#code-block-with-hugos-internal-highlight-shortcode" class="hash">#&lt;/a>&lt;/h4>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-html" data-lang="html">&lt;span style="color:#75715e">&amp;lt;!doctype html&amp;gt;&lt;/span>
-&amp;lt;&lt;span style="color:#f92672">html&lt;/span> &lt;span style="color:#a6e22e">lang&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;en&amp;#34;&lt;/span>&amp;gt;
-&amp;lt;&lt;span style="color:#f92672">head&lt;/span>&amp;gt;
-&amp;lt;&lt;span style="color:#f92672">meta&lt;/span> &lt;span style="color:#a6e22e">charset&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;utf-8&amp;#34;&lt;/span>&amp;gt;
-&amp;lt;&lt;span style="color:#f92672">title&lt;/span>&amp;gt;Example HTML5 Document&amp;lt;/&lt;span style="color:#f92672">title&lt;/span>&amp;gt;
-&amp;lt;/&lt;span style="color:#f92672">head&lt;/span>&amp;gt;
-&amp;lt;&lt;span style="color:#f92672">body&lt;/span>&amp;gt;
-&amp;lt;&lt;span style="color:#f92672">p&lt;/span>&amp;gt;Test&amp;lt;/&lt;span style="color:#f92672">p&lt;/span>&amp;gt;
-&amp;lt;/&lt;span style="color:#f92672">body&lt;/span>&amp;gt;
-&amp;lt;/&lt;span style="color:#f92672">html&lt;/span>&amp;gt;&lt;/code>&lt;/pre>&lt;/div>
-&lt;h2 id="list-types">List Types &lt;a href="#list-types" class="hash">#&lt;/a>&lt;/h2>
-&lt;h4 id="ordered-list">Ordered List &lt;a href="#ordered-list" class="hash">#&lt;/a>&lt;/h4>
-&lt;ol>
-&lt;li>First item&lt;/li>
-&lt;li>Second item&lt;/li>
-&lt;li>Third item&lt;/li>
-&lt;/ol>
-&lt;h4 id="unordered-list">Unordered List &lt;a href="#unordered-list" class="hash">#&lt;/a>&lt;/h4>
-&lt;ul>
-&lt;li>List item&lt;/li>
-&lt;li>Another item&lt;/li>
-&lt;li>And another item&lt;/li>
-&lt;/ul>
-&lt;h4 id="nested-list">Nested list &lt;a href="#nested-list" class="hash">#&lt;/a>&lt;/h4>
-&lt;ul>
-&lt;li>Fruit
-&lt;ul>
-&lt;li>Apple&lt;/li>
-&lt;li>Orange&lt;/li>
-&lt;li>Banana&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Dairy
-&lt;ul>
-&lt;li>Milk&lt;/li>
-&lt;li>Cheese&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="other-elements--abbr-sub-sup-kbd-mark">Other Elements — abbr, sub, sup, kbd, mark &lt;a href="#other-elements--abbr-sub-sup-kbd-mark" class="hash">#&lt;/a>&lt;/h2>
-&lt;p>&lt;!-- raw HTML omitted -->GIF&lt;!-- raw HTML omitted --> is a bitmap image format.&lt;/p>
-&lt;p>H&lt;!-- raw HTML omitted -->2&lt;!-- raw HTML omitted -->O&lt;/p>
-&lt;p>X&lt;!-- raw HTML omitted -->n&lt;!-- raw HTML omitted --> + Y&lt;!-- raw HTML omitted -->n&lt;!-- raw HTML omitted --> = Z&lt;!-- raw HTML omitted -->n&lt;!-- raw HTML omitted -->&lt;/p>
-&lt;p>Press &lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->CTRL&lt;!-- raw HTML omitted -->+&lt;!-- raw HTML omitted -->ALT&lt;!-- raw HTML omitted -->+&lt;!-- raw HTML omitted -->Delete&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted --> to end the session.&lt;/p>
-&lt;p>Most &lt;!-- raw HTML omitted -->salamanders&lt;!-- raw HTML omitted --> are nocturnal, and hunt for insects, worms, and other small creatures.&lt;/p>
-&lt;section class="footnotes" role="doc-endnotes">
-&lt;hr>
-&lt;ol>
-&lt;li id="fn:1" role="doc-endnote">
-&lt;p>The above quote is excerpted from Rob Pike&amp;rsquo;s &lt;a href="https://www.youtube.com/watch?v=PAAkCSZUG1c">talk&lt;/a> during Gopherfest, November 18, 2015.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ol>
-&lt;/section></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_02polygan/</guid><pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate></item><item><title>한입 코드</title><link>https://codemealkit.github.io/posts/program_02bites/</link><description>&lt;h3 id="신청하기">신청하기 &lt;a href="#%ec%8b%a0%ec%b2%ad%ed%95%98%ea%b8%b0" class="hash">#&lt;/a>&lt;/h3>
+&lt;h3 id="진행">진행 &lt;a href="#%ec%a7%84%ed%96%89" class="hash">#&lt;/a>&lt;/h3>
+&lt;p>김승범&lt;/p>
+&lt;h3 id="테이스트-키워드">테이스트 키워드 &lt;a href="#%ed%85%8c%ec%9d%b4%ec%8a%a4%ed%8a%b8-%ed%82%a4%ec%9b%8c%eb%93%9c" class="hash">#&lt;/a>&lt;/h3>
+&lt;p>신체감각, 수학적 퍼즐, 다르다고 생각했던 개념이 동일한 모습임을 깨닫는, 동적인(dynamic)&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_02polygan/</guid><pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate></item><item><title>한입 코드</title><link>https://codemealkit.github.io/posts/program_02bites/</link><description>&lt;h3 id="신청하기">신청하기 &lt;a href="#%ec%8b%a0%ec%b2%ad%ed%95%98%ea%b8%b0" class="hash">#&lt;/a>&lt;/h3>
 &lt;ol>
 &lt;li>신청링크는 매 모임 2주 전에 열립니다.&lt;/li>
 &lt;li>원활한 워크숍 진행을 위하여 참여 인원을 10명으로 제한합니다.&lt;/li>
@@ -711,23 +321,7 @@ alt="중앙에 갈색의 음식이 있는 레트로풍 포스터" height="400vw"
 &lt;img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="0" height="1em" alt="" />&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/section></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_02bites/</guid><pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate></item><item><title>바이너리의 틈</title><link>https://codemealkit.github.io/posts/brew_01binary/</link><description>&lt;p>코드 브루(Code Brew)는 코드 밀 키트에서 대화를 시작하는 역할을 합니다.
-마치 차를 우려내듯, 10분 정도의 짧은 시간 동안 코드를 음미해보는 시간입니다.
-실제 워크숍 현장에서는 코드 브루가 다루는 각 주제에 맞춰 티마스터가 제안하는 차를 함께 즐기게 됩니다.
-주제별로 제작된 총 9개의 티는 추후 만들어질 키트에서 티백으로 담길 예정입니다. :)&lt;/p>
-&lt;h4 id="between-the-binary">Between the binary &lt;a href="#between-the-binary" class="hash">#&lt;/a>&lt;/h4>
-&lt;pre>&lt;code>0과 1로 구성된 세계,
-0과 1의 논리 구조,
-샘플링과 양자화 등 디지털화(digitization)과정에서
-필연적으로 발생하는 '누락'을 추적한다
-0과 1사이의 세계,
-추정과 생략이 반영되는
-이분법의 한계와 효율성에 대한 고민을 나눈다
-&lt;/code>&lt;/pre>
-&lt;h3 id="진행">진행 &lt;a href="#%ec%a7%84%ed%96%89" class="hash">#&lt;/a>&lt;/h3>
-&lt;p>전유진&lt;/p>
-&lt;h3 id="테이스트-키워드">테이스트 키워드 &lt;a href="#%ed%85%8c%ec%9d%b4%ec%8a%a4%ed%8a%b8-%ed%82%a4%ec%9b%8c%eb%93%9c" class="hash">#&lt;/a>&lt;/h3>
-&lt;p>운명적 만남, 이진법, 두가지 맛, 0과1사이, 아날로그와 디지털&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_01binary/</guid><pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate></item><item><title>신선한 뿌리 샐러드</title><link>https://codemealkit.github.io/posts/program_01salad/</link><description>&lt;h3 id="신청하기">신청하기 &lt;a href="#%ec%8b%a0%ec%b2%ad%ed%95%98%ea%b8%b0" class="hash">#&lt;/a>&lt;/h3>
+&lt;/section></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_02bites/</guid><pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate></item><item><title>신선한 뿌리 샐러드</title><link>https://codemealkit.github.io/posts/program_01salad/</link><description>&lt;h3 id="신청하기">신청하기 &lt;a href="#%ec%8b%a0%ec%b2%ad%ed%95%98%ea%b8%b0" class="hash">#&lt;/a>&lt;/h3>
 &lt;p>&lt;a href="https://c11.kr/01salad">https://c11.kr/01salad&lt;/a>&lt;/p>
 &lt;ol>
 &lt;li>원활한 워크숍 진행을 위하여 참여 인원을 10명으로 제한합니다.&lt;/li>
@@ -762,4 +356,17 @@ Searching various languages of mankind for communication and delivery, we look a
 &lt;p>Quipu(키푸, Khipu)는 고대 잉카 문명에서 정보를 기록하기 위해 사용된 매듭 문자이다. 색을 입힌 알파카나 라마의 털로 만든 줄에 매듭을 묶어서 특정한 수나 정보를 전달했다. &lt;a href="https://en.wikipedia.org/wiki/Quipu">위키피디아&lt;/a>&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/section></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_01salad/</guid><pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate></item></channel></rss>
+&lt;/section></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/program_01salad/</guid><pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate></item><item><title>자연의 리듬</title><link>https://codemealkit.github.io/posts/brew_01nature/</link><description>&lt;p>코드 브루(Code Brew)는 코드 밀 키트에서 대화를 시작하는 역할을 합니다.
+마치 차를 우려내듯, 10분 정도의 짧은 시간 동안 코드를 음미해보는 시간입니다.
+실제 워크숍 현장에서는 코드 브루가 다루는 각 주제에 맞춰 티마스터가 제안하는 차를 함께 즐기게 됩니다.
+주제별로 제작된 총 9개의 티는 추후 만들어질 키트에서 티백으로 담길 예정입니다.&lt;/p>
+&lt;h4 id="the-rhythm-of-nature">The Rhythm of Nature &lt;a href="#the-rhythm-of-nature" class="hash">#&lt;/a>&lt;/h4>
+&lt;pre>&lt;code>수와 자연, 코드의 연관성
+반복을 읽어내기, 몸으로 리듬을 타듯이
+광범위한 차원의 '코드', '코드읽기'
+대립과 경계없이 되풀이되는 반복의 패턴을 통해 연결감 회복
+&lt;/code>&lt;/pre>
+&lt;h3 id="진행">진행 &lt;a href="#%ec%a7%84%ed%96%89" class="hash">#&lt;/a>&lt;/h3>
+&lt;p>전유진&lt;/p>
+&lt;h3 id="테이스트-키워드">테이스트 키워드 &lt;a href="#%ed%85%8c%ec%9d%b4%ec%8a%a4%ed%8a%b8-%ed%82%a4%ec%9b%8c%eb%93%9c" class="hash">#&lt;/a>&lt;/h3>
+&lt;p>반복, 패턴, 리듬, 자연, 수학&lt;/p></description><author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author><guid>https://codemealkit.github.io/posts/brew_01nature/</guid><pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate></item></channel></rss>

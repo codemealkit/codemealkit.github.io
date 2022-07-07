@@ -6,39 +6,18 @@ tags:
 - codebrew
 ---
 
-Emoji can be enabled in a Hugo project in a number of ways.
-<!--more-->
-The [`emojify`](https://gohugo.io/functions/emojify/) function can be called directly in templates or [Inline Shortcodes](https://gohugo.io/templates/shortcode-templates/#inline-shortcodes).
+코드 브루(Code Brew)는 코드 밀 키트에서 대화를 시작하는 역할을 합니다. 
+마치 차를 우려내듯, 10분 정도의 짧은 시간 동안 코드를 음미해보는 시간입니다. 
+실제 워크숍 현장에서는 코드 브루가 다루는 각 주제에 맞춰 티마스터가 제안하는 차를 함께 즐기게 됩니다. 
+주제별로 제작된 총 9개의 티는 추후 만들어질 키트에서 티백으로 담길 예정입니다. 
 
-To enable emoji globally, set `enableEmoji` to `true` in your site's [configuration](https://gohugo.io/getting-started/configuration/) and then you can type emoji shorthand codes directly in content files; e.g.
+#### Recursive Hello, World
 
-<p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
-<br>
+    우리 모두 합의했다고 생각했던 상식적인 규칙이 깨진다면? 
+    항상 일정하지 않은 연산의 순서 
 
-The [Emoji cheat sheet](http://www.emoji-cheat-sheet.com/) is a useful reference for emoji shorthand codes.
+### 진행 
+김승범
 
-***
-
-**N.B.** The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.
-
-{{< highlight html >}}
-.emoji {
-  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-}
-{{< /highlight >}}
-
-{{< css.inline >}}
-<style>
-.emojify {
-	font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-	font-size: 2rem;
-	vertical-align: middle;
-}
-@media screen and (max-width:650px) {
-  .nowrap {
-    display: block;
-    margin: 25px 0;
-  }
-}
-</style>
-{{< /css.inline >}}
+### 테이스트 키워드  
+어색함, 이상한, 변칙적으로 보이는, 의심, 상식과 다른, 유별난 

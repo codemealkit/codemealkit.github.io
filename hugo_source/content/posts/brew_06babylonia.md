@@ -6,34 +6,19 @@ tags:
 - codebrew
 ---
 
-Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes) for rich content, along with a [Privacy Config](https://gohugo.io/about/hugo-and-gdpr/) and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
-<!--more-->
----
+코드 브루(Code Brew)는 코드 밀 키트에서 대화를 시작하는 역할을 합니다. 
+마치 차를 우려내듯, 10분 정도의 짧은 시간 동안 코드를 음미해보는 시간입니다. 
+실제 워크숍 현장에서는 코드 브루가 다루는 각 주제에 맞춰 티마스터가 제안하는 차를 함께 즐기게 됩니다. 
+주제별로 제작된 총 9개의 티는 추후 만들어질 키트에서 티백으로 담길 예정입니다. 
 
-## Instagram Simple Shortcode
+#### Babylonian Law
 
-{{< instagram_simple BGvuInzyFAe hidecaption >}}
+    기술의 기원으로 돌아가기 
+    가장 단순하지만 가장 불편한 
+    반복적인 연산의 수행 
 
-<br>
+### 진행 
+정앎
 
----
-
-## YouTube Privacy Enhanced Shortcode
-
-{{< youtube ZJthWmvUzzc >}}
-
-<br>
-
----
-
-## Twitter Simple Shortcode
-
-{{< twitter_simple 1085870671291310081 >}}
-
-<br>
-
----
-
-## Vimeo Simple Shortcode
-
-{{< vimeo_simple 48912912 >}}
+### 테이스트 키워드  
+earthy, mineral 
