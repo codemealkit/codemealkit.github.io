@@ -133,12 +133,58 @@ tags:
 {{<break>}}
 
 * * *
-
+{{<break>}}
 ## 기술 문화의 섭취법
 ### 김승범
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?  
+{{<break>}}
+{{<break>}}
+
+"그런데 이거 해서 어디에 써요?"
+{{<break>}}
+{{<note "코딩을 다루던 수업 시간, '코치'의 태도로 대하고 있던 한 학생이 갑자기 질문을 던집니다. 일명 돌직구라고 하죠. 수업이라는 테두리 안에 갇혀 오늘 수업 내용에 집중하던 제 사고는 학생이 던진 질문에 학교 밖으로 튕겨나가 버렸습니다." >}}
+
+{{<note "여러 마음이 섞이고 충돌하더군요." >}}
+
+OOO 분야에서 쓰일 수 있지 ... (물론 바로 써먹을 수 있는건 아냐)
+차근차근 배우면 너가 상상하는 모든걸 만들 수 있단다 ... (실은 엄청 공부하고 노력해야 해)
+지금 어색하고 실수해도 점점 나아질거야 ... (인공지능이 이제 너보다 코딩 더 잘 하네)
+지금 세상이 컴퓨팅으로 채워져있어 ... (자세히 몰라도 당장 사는 데 지장은 없지)
+너가 하고픈 모든 일에 컴퓨팅이 필요하게 될거야 ... (너가 하고픈 일을 찾는게 먼저구나)
+... ( ... )
+
+{{<note "코딩과 같은 기술매체 수업이 때로는 배워야하는 기술 자체의 분량 때문에 그 안에 머물다가 끝나버리는 경우가 있습니다. 수업 안에서 여러 응용이나 맥락을 전달하려고 해도 학생 개개인의 삶에 닿기까지는 거리가 있습니다." >}}
+
+{{<note "수업뿐만이 아닙니다. 우리 모두에게 끝없이 쏟아지는 기술적 존재들은 잔잔한 (그리고 무관심한) 내 마음 속에 가라앉아 다시는 수면 위로 올라올거 같지 않을, 켜켜이 쌓이기만 하는 퇴적물이 되기도 합니다." >}}
+
+{{<note "그래서 질문이 필요합니다." >}}
+
+{{< figure src="../img/sb.png" caption="Midjourney Prompt : Stir it with a glass stick in a transparent glass beaker to make muddy water. Hyper-Reality, Black and White" alt="긴 목의 유리컵과 짧은 목의 유리컵 안에 검정 부유물이 존재하는 투명한 액체가 담겨있다" width="500vw">}}
+
+{{<note "깊은 바닥에 가라앉아 단단히 굳어가는 퇴적물을 한 번 휘저어 봐야 하는거죠." >}}
 
 
+{{<note "흙탕물이 되기도 하겠지요." >}}
 
+
+{{<note "퇴적물 안에 숨겨진 무언가를 발견하기도 할겁니다." >}}
+
+
+{{<note "다시 내 마음이 잔잔해지면 대부분이 가라 앉을건데요," >}}
+
+
+{{<note "하지만 일부 성분이 내 마음에 용해되어 그 전과는 달라질지도 모릅니다." >}}
+
+
+{{<note "우리가 모이고 대화하는건 또 다른 무언가를 쌓기 위함이 아닙니다." >}}
+
+{{<note "평소와는 다른 관점으로, 혹은 감각으로 기술매체에 대한 우리의 마음을 한 번 휘저어 보려는 것입니다." >}}
+
+
+{{<note "{ 각자의 질문을 만들어 봅시다. }" >}}
+
+
+{{<break>}}
+{{<break>}}
+{{<break>}}
 
 [top](#코드-밀-키트)
