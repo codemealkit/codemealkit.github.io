@@ -73,7 +73,7 @@ tags:
 {{<break>}}
 {{<note "지금 제 눈앞에는 막대 하나가 깜박이고 있습니다." >}}
 
-{{< figure src="../img/output-line.gif" alt="검은 컴퓨터 터미널 윈도우의 깜박이는 흰 막대" width="120vw">}}
+{{< figure src="../img/output-line.gif" alt="검은 컴퓨터 터미널 윈도우의 깜박이는 흰 막대" width="140vw">}}
 
 {{<note "위치는 어두운 터미널 속 일수도 있고, 빈종이를 의태한 디지털 문서 상 일지도 모릅니다." >}}
 {{<note "이 기다림에 익숙한 장치는 무언가를 기다리고 있습니다.">}}
@@ -94,7 +94,7 @@ tags:
 
 {{<note "전원을 켭니다.">}}
 
-{{< figure src="../img/Mouse-cursor-hand-pointer.gif" alt="흰 화살촉과 흰 손 모양의 컴퓨터 마우스 유저 인터페이스 커서 이미지" width="120vw">}}
+{{< figure src="../img/Mouse-cursor-hand-pointer.gif" alt="흰 화살촉과 흰 손 모양의 컴퓨터 마우스 유저 인터페이스 커서 이미지" width="160vw">}}
 
 {{<note "순식간에 화면이 이미지들로 채워집니다.">}}
 {{<note "화살촉, 혹은, (잘린) 손이 주어집니다. 버튼이 보입니다.">}}
@@ -105,13 +105,13 @@ tags:
 {{<break>}}
 {{<break>}}
 
-{{< figure src="../img/SAAM-1968.155.146_1.jpg" caption="Smithsonian American Art Museum" alt="오래된 서양 석상의 오른손. 집게 손가락으로 무언가를 가리키고 있다." height="150vw">}}
-{{< figure src="../img/PS01001001_ssu04_ssu07709.jpg" caption="국립중앙박물관" alt="부서진 오래된 부처상의 얼굴, 손바닥, 그리고 다른 부분들이 바닥에 정갈히 흩어져있다." height="150vw">}}
+{{< figure src="../img/SAAM-1968.155.146_1.jpg" caption="Smithsonian American Art Museum" alt="오래된 서양 석상의 오른손. 집게 손가락으로 무언가를 가리키고 있다." height="200vw">}}
+{{< figure src="../img/PS01001001_ssu04_ssu07709.jpg" caption="국립중앙박물관" alt="부서진 오래된 부처상의 얼굴, 손바닥, 그리고 다른 부분들이 바닥에 정갈히 흩어져있다." height="180vw">}}
 
 {{<break>}}
 {{<break>}}
 
-{{< figure src="../img/tirchonaill.png" caption="NEXON" height="200vw" alt="상록수림 속 전원적 마을의 광장을 재현한 3D 컴퓨터 그래픽.">}}
+{{< figure src="../img/tirchonaill.png" caption="NEXON" height="260vw" alt="상록수림 속 전원적 마을의 광장을 재현한 3D 컴퓨터 그래픽.">}}
 
 {{<sidenote "첫 마을(first town)이 있다. 아무리 방대한 세계관과 유연한 자유도를 자랑하는 오픈 월드(open world)라고 해도 게임이 시작하는 지점은 있기 마련이다.">}}
 {{<sidenote "첫 마을의 의도는 게임 세계의 기본 법칙과 플레이어에게 허용된 행동 공간(action space)의 범주를 시행착오를 통해 흡수할 수 있는 기회를 주는 것이다. 전체 플레이의 작은 일부분이지만 첫 마을은 플레이어의 위치를 정해주는 중요한 역할을 수행한다. 극단적으로, 첫 마을에서부터 몰입이 힘들다면 그대로 하차하는 경우도 있을 것이다.">}}
@@ -123,7 +123,7 @@ tags:
 
 {{<break>}}
 
-{{< figure src="../img/output-line.gif" alt="검은 컴퓨터 터미널 윈도우의 깜박이는 흰 막대" width="120vw">}}
+{{< figure src="../img/output-line.gif" alt="검은 컴퓨터 터미널 윈도우의 깜박이는 흰 막대" width="140vw">}}
 
 
 {{<note "명령어를 입력해주세요.">}}
