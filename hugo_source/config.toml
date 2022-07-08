@@ -84,5 +84,5 @@ minify = true
   [[menu.main]]
     identifier = "codebrew"
     name       = "Code Brew"
-    url        = "/tags/codebrew/"
+    url        = "/codebrew/"
     weight     = -10
