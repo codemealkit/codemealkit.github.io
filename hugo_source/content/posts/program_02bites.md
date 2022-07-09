@@ -18,7 +18,7 @@ tags:
 
 *** 
 
-{{< figure src="/img/02bites.png" caption="텍스트를 시각화하는 AI모델 미드저니(MidJourney)에 'code bites food retro poster'라는 문장을 적용하여 생성한 이미지" alt="중앙에 갈색의 음식이 있는 레트로풍 포스터" height="400vw">}}
+{{< figure src="/img/02bites.png" caption="텍스트를 시각화하는 AI모델 미드저니(MidJourney)에 'code bites food retro poster'라는 문장을 적용하여 생성한 이미지" alt="중앙에 갈색의 음식이 있는 레트로풍 포스터" width="400vw">}}
 #### Code Bites
 <cite>code snippet[^1]</cite>처럼 짧은 토막의 코드를 여러 관점에서 다르게 읽어본다. 코드 자체의 의미뿐만 아니라, 프로그래밍의 패러다임, 컴퓨터적 사고방식 나아가 동시대 문화까지도 코드에서 읽어낼 수 있을지? 코드에 대한 창의적인 오독을 시도해보자.
 [^1]:code snippet(코드 스니펫)은 '코드 조각', '짜투리 코드'로 번역할 수 있으며, 반복되는 코드를 쉽게 복사하여 사용할 수 있도록 단편화시킨 것을 말한다.   

@@ -18,9 +18,9 @@ tags:
 
 *** 
 
-{{< figure src="/img/09carte2.png" caption="텍스트를 시각화하는 AI모델 미드저니(MidJourney)에 'code a la carte food retro'라는 문장을 적용하여 생성한 이미지" alt="흰 접시에 초록색 잎과 함께 음식이 담겨있다. " height="400vw">}}
+{{< figure src="/img/09carte2.png" caption="텍스트를 시각화하는 AI모델 미드저니(MidJourney)에 'code a la carte food retro'라는 문장을 적용하여 생성한 이미지" alt="흰 접시에 초록색 잎과 함께 음식이 담겨있다. " width="400vw">}}
 #### Code a la carte II
-모임에 함께 참여한 이들이 자유롭게 제시하는 주제로 꾸려지게 된다. 각 모임에서 충분히 이야기 나누지 못했던 주제나, 확장-파생된 이슈를 참여자의 발제로 구성한다. 
+모임에 함께 참여한 이들이 자유롭게 제시하는 주제로 꾸려지게 된다. 각 모임에서 충분히 나누지 못했던 이야기나, 확장-파생된 이슈를 참여자의 발제로 구성한다. 
 {{<break>}}
 
 #### 진행  

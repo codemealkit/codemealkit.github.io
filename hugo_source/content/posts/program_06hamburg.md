@@ -18,7 +18,7 @@ tags:
 
 *** 
 
-{{< figure src="/img/06hamburg.png" caption="텍스트를 시각화하는 AI모델 미드저니(MidJourney)에 'hamburg hamburger food retro poster '라는 문장을 적용하여 생성한 이미지" alt="중앙에 햄버거가 배치된 레트로풍 포스터" height="400vw">}}
+{{< figure src="/img/06hamburg.png" caption="텍스트를 시각화하는 AI모델 미드저니(MidJourney)에 'hamburg hamburger food retro poster '라는 문장을 적용하여 생성한 이미지" alt="중앙에 햄버거가 배치된 레트로풍 포스터" width="400vw">}}
 #### Hamburg Hamburg Hamburg
 코드에 대한 세계화(i18n) 정책, 깃헙(github)에서 통용되는 README.md 파일, p5js FES(Friendly Error System) 번역 등 기술의 번역에 관해 이야기한다. 본 모임은 특별히 교육자 및 학생인 참여자에 한하여 모집하려 한다. 
 {{<break>}}

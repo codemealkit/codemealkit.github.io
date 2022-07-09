@@ -17,7 +17,7 @@ tags:
 
 *** 
 
-{{< figure src="/img/01salad.png" caption="텍스트를 시각화하는 AI모델 미드저니(MidJourney)에 'fresh roots salad bowl food'라는 문장을 적용하여 생성한 이미지" alt="둥근 그릇에 다양한 색상의 뿌리 채소가 엉킨채로 담겨있다" height="400vw">}}
+{{< figure src="/img/01salad.png" caption="텍스트를 시각화하는 AI모델 미드저니(MidJourney)에 'fresh roots salad bowl food'라는 문장을 적용하여 생성한 이미지" alt="둥근 그릇에 다양한 색상의 뿌리 채소가 엉킨채로 담겨있다" width="400vw">}}
 #### Fresh Roots Salad Bowl
 소통과 전달을 위한 인류의 다양한 신호 체계를 톺아보며, 상호 약속이자 관계의 언어로서 코드를 바라본다. 잉카의 매듭문자인 <cite>Quipu[^1]</cite>, 비인간 존재 더 나아가 외계와의 소통 등 엉뚱하게 뻗쳐나가는 다양한 언어의 뿌리들이 코드에 어떤 활기와 환기를 불어넣게 될까?
 
@@ -29,8 +29,7 @@ tags:
 
 {{<break>}}
 #### 읽기자료 
-Coming Soon! 
-곧 업로드될 예정입니다. 
+[0723_Quipu.pdf](https://codemealkit.github.io/reading/0723_quipu.pdf)
 
 
 {{<break>}}

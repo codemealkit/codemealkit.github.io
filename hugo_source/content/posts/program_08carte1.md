@@ -19,7 +19,7 @@ tags:
 
 *** 
 
-{{< figure src="/img/08carte1.png" caption="텍스트를 시각화하는 AI모델 미드저니(MidJourney)에 'code a la carte food retro'라는 문장을 적용하여 생성한 이미지" alt="흰 접시에 음식이 놓여있다." height="400vw">}}
+{{< figure src="/img/08carte1.png" caption="텍스트를 시각화하는 AI모델 미드저니(MidJourney)에 'code a la carte food retro'라는 문장을 적용하여 생성한 이미지" alt="흰 접시에 음식이 놓여있다." width="400vw">}}
 #### Code a la carte I
 최종의 질문 카드 셋을 완성하기 위해 그간 모임에서 축적된 질문을 다시 살펴본다. 
 

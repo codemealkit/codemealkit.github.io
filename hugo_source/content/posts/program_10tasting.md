@@ -18,7 +18,7 @@ tags:
 
 *** 
 
-{{< figure src="/img/10room.png" caption="텍스트를 시각화하는 AI모델 미드저니(MidJourney)에 'tea bag code brewing retro poster'라는 문장을 적용하여 생성한 이미지" alt="둥근 구 안에 갈색의 찻물이 담겨있다. " height="400vw">}}
+{{< figure src="/img/10room.png" caption="텍스트를 시각화하는 AI모델 미드저니(MidJourney)에 'tea bag code brewing retro poster'라는 문장을 적용하여 생성한 이미지" alt="둥근 구 안에 갈색의 찻물이 담겨있다. " width="400vw">}}
 #### Code Brew : Tasting Room 
 매 모임의 시작을 열어준 코드 브루(Code Brew) 9개를 모두 모아 시음회를 연다. 각 코드 브루에서 다룬 코드와 주제, 함께 매칭된 티의 테이스트 노트, 레시피, 제작 과정 등을 공유한다. 
 {{<break>}}
